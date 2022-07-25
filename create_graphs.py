@@ -108,4 +108,5 @@ def ex_curriculum_rl():
 
 
 if __name__ == "__main__":
-    ex_topoorder()
+    create_graphs()
+    # ex_topoorder()

@@ -1,3 +1,8 @@
+## Additional steps:
+
+Run `module load cuda/11.0`
+Run `mkdir mappings`
+
 # Streaming Engine Scheduler
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6611892.svg)](https://doi.org/10.5281/zenodo.6611892)

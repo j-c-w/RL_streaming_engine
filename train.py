@@ -24,7 +24,7 @@ def get_args():
     parser = argparse.ArgumentParser(description='Streaming Engine RL Mapper')
     arg = parser.add_argument
 
-    arg('--device-topology', nargs='+', type=int, default=(16, 6), help='Device topology of Streaming Engine')
+    arg('--device-topology', nargs='+', type=int, default=(1024, 6), help='Device topology of Streaming Engine')
     arg('--pipeline-depth', type=int, default=3, help='processing pipeline depth')
     arg('--epochs', type=int, default=200000, help='number of epochs')
     arg('--nodes', type=int, default=20,  help='number of nodes')
@@ -46,13 +46,24 @@ def get_args():
     arg('--K_epochs', type=int, default=5, help='update policy for K epochs')
     arg('--eps_clip', type=float, default=0.2, help='clip parameter for PPO')
     arg('--gamma', type=float, default=0.99, help='discount factor')
-    arg('--lr', type=float, default=1e-3, help='parameters for Adam optimizer')
+    arg('--lr', type=float, default=1e-4, help='parameters for Adam optimizer')
     arg('--betas', type=float, default=(0.9, 0.999), help='')
     arg('--loss_entropy_c', type=float, default=0.01, help='coefficient for entropy term in loss')
     arg('--loss_value_c', type=float, default=0.5, help='coefficient for value term in loss')
     arg('--model', type=str, default='', help='load saved model from file')
     arg('--log_interval', type=int, default=100, help='interval for logging data')
     arg('--quiet', action='store_true', help='dont save model and tensorboard')
+
+    # Settings for annealer
+    arg('--true-annealer', default=False, action='store_true', help='Run un-aided annealer')
+    arg('--train-rl-annealer', default=False, action='store_true', help='Train the RL annealer')
+    arg('--seed', default=0, help='seed', type=int)
+    arg('--use-mp', default=False, help='Use MP', action='store_true')
+    arg('--same-starting-point', default=False, action='store_true', help='Use the same starting point every time', dest='same_starting_point')
+
+    # Settings for Various RL Agents
+    arg('--tuned-annealer', dest='tuned_annealer', default=False, action='store_true')
+
     args = parser.parse_args()
     return args
 

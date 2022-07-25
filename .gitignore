@@ -1,3 +1,13 @@
+annealing_results.png
+output.png
+data_files
+out_with_mp
+out
+true_annealer_output
+graphs.pkl
+.total_reward*
+aided_annealer*
+aided_annealer*out*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

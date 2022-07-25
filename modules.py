@@ -27,6 +27,7 @@ class RolloutBuffer:
         self.is_terminals = []
         self.masks = []
         self.node_ids = []
+        self.logits = []
 
     def clear(self):
         del self.actions[:]
@@ -37,6 +38,7 @@ class RolloutBuffer:
         del self.is_terminals[:]
         del self.masks[:]
         del self.node_ids[:]
+        del self.logits[:]
 
 # From https://boring-guy.sh/posts/masking-rl/
 class CategoricalMasked(Categorical):
@@ -240,14 +242,21 @@ class ActorCritic(nn.Module):
                  action_dim,
                  graph_feat_size,
                  gnn_in,
+                 node_ids = True, # Use NodeID as input tensor
+                 raw_values = False, # return the FP numbers
                  ntasks = 1):
         super(ActorCritic, self).__init__()
         self.args = args
+        self.raw_values = raw_values
         self.device = device
+        if node_ids:
+            add_size = 1
+        else:
+            add_size = 3
 
         self.graph_model = nn.ModuleList([
-            gnn.SGConv(gnn_in, 64, 1, False, nn.ReLU),
-            gnn.SGConv(64, 128, 1, False, nn.ReLU)
+            gnn.GraphConv(gnn_in, 64),
+            gnn.GraphConv(64, 128)
         ])
         self.graph_avg_pool = gnn.AvgPooling()
 
@@ -257,25 +266,24 @@ class ActorCritic(nn.Module):
         self.transf_atten = TransformerAttentionModel(graph_feat_size, 4, 64)
 
         if args.nnmode == 'simple_ff':
-            self.actor = ACFF(state_dim+1, emb_size, action_dim, mode='')  # Don't apply softmax since we now use logits
-            self.critic = ACFF(state_dim+1, emb_size, 1, mode='')  # +1 for node_id
+            self.actor = ACFF(state_dim + add_size, emb_size, action_dim, mode='tanh')  # Don't apply softmax since we now use logits
+            self.critic = ACFF(state_dim + add_size, emb_size, 1, mode='tanh')  # +1 for node_id
 
         elif (self.args.nnmode == 'ff_gnn' or
             self.args.nnmode == 'ff_gnn_attention' or
             self.args.nnmode == 'ff_transf_attention'):
 
-            self.actor = ACFF(state_dim+1+graph_feat_size, emb_size, action_dim, mode='')  # Don't apply softmax since we now use logits
-            self.critic = ACFF(state_dim+1+graph_feat_size, emb_size, 1, mode='')  # +1 for node_id
+            self.actor = ACFF(state_dim+add_size+graph_feat_size, emb_size, action_dim, mode='tanh')  # Don't apply softmax since we now use logits
+            self.critic = ACFF(state_dim+add_size+graph_feat_size, emb_size, 1, mode='tanh')  # +1 for node_id
 
         else:
-            self.actor = ACFF(state_dim+graph_feat_size, emb_size, action_dim, mode='soft')  # earlier: state_dim+graph_feat_size
-            self.critic = ACFF(state_dim+graph_feat_size, emb_size, 1, mode='')
+            self.actor = ACFF(state_dim+graph_feat_size, emb_size, action_dim, mode='tanh')  # earlier: state_dim+graph_feat_size
+            self.critic = ACFF(state_dim+graph_feat_size, emb_size, 1, mode='tanh')
 
     def forward(self):
         raise NotImplementedError
 
     def act(self, state, graph_info, node_id_or_ids, mask):
-
         state = torch.atleast_2d(state)
 
         if (self.args.nnmode == 'ff_gnn' or
@@ -295,15 +303,26 @@ class ActorCritic(nn.Module):
                 # graph_feat = graph_feat[0]#.squeeze(1)
 
             graph_feat = self.graph_avg_pool(graph, graph_feat)
-            state = torch.cat((state, node_id_or_ids, graph_feat), dim=1)# Add node id and graph embedding
+            if node_id_or_ids is not None:
+                state = torch.cat((state, node_id_or_ids, graph_feat), dim=1)# Add node id and graph embedding
+            else:
+                state = torch.cat((state, graph_feat), dim=1)
         else:
-            state = torch.cat((state, node_id_or_ids), dim=1) # Add node id
+            if node_id_or_ids is not None:
+                state = torch.cat((state, node_id_or_ids), dim=1) # Add node id
+            else:
+                pass
 
+
+        # breakpoint()
         logits = self.actor(state)
-        dist = CategoricalMasked(logits=logits, mask=mask)
-        action = dist.sample() # flattened index of a tile slice coord
-        action_logprob = dist.log_prob(action)
-        return action.detach(), action_logprob.detach()
+        if self.raw_values:
+            return logits, logits
+        else:
+            dist = CategoricalMasked(logits=logits, mask=mask)
+            action = dist.sample() # flattened index of a tile slice coord
+            action_logprob = dist.log_prob(action)
+            return action.detach(), action_logprob.detach()
 
     def evaluate(self, state, action, graph_info, mask, node_id_or_ids=None):
         state = torch.atleast_2d(state)
@@ -316,6 +335,7 @@ class ActorCritic(nn.Module):
             graph = dgl.add_self_loop(graph)
             graph_feat = graph.ndata['feat']
             for layer in self.graph_model:
+                # breakpoint()
                 graph_feat = layer(graph, graph_feat)
 
             if self.args.nnmode == 'ff_gnn_attention':
@@ -329,15 +349,22 @@ class ActorCritic(nn.Module):
             graph_feat = self.graph_avg_pool(graph, graph_feat)
             gnn_feat = graph_feat.broadcast_to(state.shape[0], -1)
 
-            state = torch.cat((state, node_id_or_ids, gnn_feat), dim=1)  # Add node id and graph embedding
+            if node_id_or_ids is not None:
+                state = torch.cat((state, node_id_or_ids, gnn_feat), dim=1)  # Add node id and graph embedding
+            else:
+                state = torch.cat((state, gnn_feat), dim=1)
         else:
-            state = torch.cat((state, node_id_or_ids), dim=1) # Add node id
+            if node_id_or_ids is not None:
+                state = torch.cat((state, node_id_or_ids), dim=1) # Add node id
 
         logits = self.actor(state)
 
-        dist = CategoricalMasked(logits=logits, mask=mask)
-        action_logprobs = dist.log_prob(action)
-        dist_entropy = dist.entropy()
-
         state_values = self.critic(state)
+        if self.raw_values:
+            return logits, state_values 
+        else:
+            dist = CategoricalMasked(logits=logits, mask=mask)
+            action_logprobs = dist.log_prob(action)
+            dist_entropy = dist.entropy()
+
         return action_logprobs, state_values, dist_entropy

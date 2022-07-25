@@ -18,6 +18,9 @@ class Tile:
         self.spokes[spoke_idx] = node
         return True  # return True for successful placement
 
+    def unplace(self, spoke_idx):
+        self.spokes[spoke_idx] = None
+
     def reset(self):
         self.spokes = [None] * self.spoke_count
 
@@ -97,6 +100,9 @@ class StreamingEngineEnv(gym.Env):
         done = len(self.placed_nodes) == self.num_nodes
         return obs, reward, done, {'ready_time': ready_time}
 
+    def location_of(self, node):
+        return self.placed_nodes[node]['tile_slice']
+
     def reset(self):
         self.se.reset()
         self.placed_nodes = {}
@@ -111,8 +117,8 @@ class StreamingEngineEnv(gym.Env):
         # Assumes that node has already been placed, along with its predecessors
         node, tile_idx, spoke_idx = action
         predecessors = self._get_predecessors(node)
+        predecessor_ready_time = -1
         ready_time = 0
-        predecessor_ready_time = 0
         # If node doesn't have any predecessor, processing starts immediately
         if len(predecessors) == 0:
             ready_time = spoke_idx + self.se.pipeline_depth
@@ -153,12 +159,12 @@ class StreamingEngineEnv(gym.Env):
         """
         zero_mask = np.zeros(self.se.tile_count * self.se.spoke_count)
         # If node is already placed, return mask with all zeros
-        if self.placed_nodes.get(node) != None:
-            logging.debug(f'Node {node} already placed, zero mask returned')
-            return zero_mask
+        # if self.placed_nodes.get(node) != None:
+        #     logging.debug(f'Node {node} already placed, zero mask returned')
+        #     return zero_mask
 
         # Check if predecessors have been placed
-        elif not self._predecessors_placed(node):
+        if not self._predecessors_placed(node):
             logging.debug(f'All predecessors not placed for node {node}, zero mask returned')
             return zero_mask
         
