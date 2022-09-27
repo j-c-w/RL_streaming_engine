@@ -1,0 +1,44 @@
+{
+    "benchmarks": [
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_1.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_2.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_3.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_65.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_103.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_122.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_123.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_131.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_132.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_freeimage_150.c",
+            "weight": 1.0
+        }
+    ]
+}

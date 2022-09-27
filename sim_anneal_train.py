@@ -174,10 +174,7 @@ def true_annealer(env, graph, ppo=None, queue=None, agent_mode=None):
     iter_count = 0
     last_improvement = 0
     annealing_rate = ANNEALER_CONFIG['AnnealingRateStart']
-    print("Starting toposort")
-    print(graph['graph'])
     asc = dgl.topological_nodes_generator(graph['graph'])
-    print("Done toposort")
     # Iterate backwarsd over nodes
     lnodes = [i.item() for t in asc for i in t][::-1]
 
@@ -278,13 +275,6 @@ def true_annealer(env, graph, ppo=None, queue=None, agent_mode=None):
         # ppo.add_buffer(tobuff, 0.0, True)
         # Punish depending on how bad the best graph is --- aim is to
         # dwarf the other pnishments received along the way.
-        # TODO -- make this work with arbitrary-sized inputs.
-        if queue is not None and len(queue) > 2000:
-            # There are OOM errors when passing massive states
-            # back and forth --- leave some elements out (at random)
-            random.shuffle(queue)
-            queue = queue[:2000]
-            pass
         queue.append((tobuff, -best_graph, True))
     elif agent_mode == 'AidedAnnealing':
         print("Adding final reward of ", -best_graph)
@@ -326,8 +316,8 @@ def train_tuned_annealer(args, ppo, graph):
                 print("Launching starmap")
                 scores = p.starmap(true_annealer, [(env, graph, ppo, None, 'AidedAnnealing') for env in envs])
                 this_scores = []
-                rsum = 0.0
                 for score, update in scores:
+                    rsum = 0.0
                     this_buf = []
                     this_scores.append(score)
                     this_sum = 0.0
@@ -400,7 +390,7 @@ def train_rl_annealing(args, ppo, graph):
     best_score = 1000000000
 
     if args.use_mp:
-        mp.set_start_method('spawn')
+        pass
     else:
         env = SimulatedAnnealingEngineEnv(args, graph, tile_count = args.device_topology[0], spoke_count = args.device_topology[1], pipeline_depth = args.pipeline_depth, random=random.Random(random.randint(0, 1000000)))
         env.set_graph(graph)

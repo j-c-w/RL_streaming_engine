@@ -11,7 +11,9 @@ fi
 outfile=$1
 shift
 
+export PATH=$PATH:~/Projects/CGRA/CGRA-Mapper/bin
+
 export CUDA_VISIBLE_DEVICES=""
 eval "$(conda shell.zsh hook)"
 conda activate streaming_engine
-python sim_anneal_train.py $@ &> $outfile
+./run_place.sh $@ &> $outfile

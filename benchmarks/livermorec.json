@@ -1,0 +1,44 @@
+{
+    "benchmarks": [
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_700.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_701.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_810.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_821.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_1194.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_1302.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_1327.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_1328.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_1329.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_LivermoreC_1339.c",
+            "weight": 1.0
+        }
+    ]
+}

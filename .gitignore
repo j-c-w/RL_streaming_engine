@@ -487,3 +487,20 @@ doc/sample-sigplan.pdf
 mappings/
 runs/
 *.pth
+
+# Random files that keep appearing in this folder.
+operations.json
+config.json
+dfg.json
+fn.dot
+output_eval
+sim_anneal_temp
+temp_config.json
+temp_eval
+temp_output
+temp_output_filtered
+
+cgra_place/rewards.png
+
+trained_model.pk
+trained_model.pk.tune_metadata

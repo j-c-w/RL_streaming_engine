@@ -1,0 +1,5 @@
+{
+	"row": 4,
+	"column": 4,
+	"operations": ["add", "sub", "mul", "sdiv", "udiv", "sext", "zext", "load", "store", "icmp", "br", "mod", "fmul", "fadd", "fdiv", "shl", "rshl", "rsha", "and", "or"]
+}

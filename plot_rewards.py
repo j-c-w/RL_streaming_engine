@@ -16,7 +16,7 @@ def plot(fn):
         vs = np.convolve(vs, np.ones(window), 'valid') / float(window)
     plt.plot(range(0, len(vs)), vs, label=fn)
     plt.legend()
-    plt.yscale('log')
+    # plt.yscale('log')
     plt.savefig('output.png')
 
 if __name__ == "__main__":

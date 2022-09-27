@@ -1,0 +1,44 @@
+{
+    "benchmarks": [
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_0.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_4.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_5.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_6.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_7.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_8.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_9.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_10.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_11.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_ffmpeg_12.c",
+            "weight": 1.0
+        }
+    ]
+}

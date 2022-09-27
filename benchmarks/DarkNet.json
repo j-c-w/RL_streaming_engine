@@ -1,0 +1,44 @@
+{
+    "benchmarks": [
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_109.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_93.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_96.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_196.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_243.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_309.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_407.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_408.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_507.c",
+            "weight": 1.0
+        },
+        {
+            "file": "benchmarks/Loops4/loop_DarkNet_508.c",
+            "weight": 1.0
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+	"benchmarks": [
+		{
+			"file": "/private/home/jacksonwoodruff/Projects/CGRA/CGRA-Mapper/Loops4/loop_DarkNet_109.c",
+			"weight": 1.0
+		},
+		{
+			"file": "/private/home/jacksonwoodruff/Projects/CGRA/CGRA-Mapper/Loops4/loop_DarkNet_1368.c",
+			"weight": 1.0
+		},
+		{
+			"file": "/private/home/jacksonwoodruff/Projects/CGRA/CGRA-Mapper/Loops4/loop_DarkNet_1298.c",
+			"weight": 1.0
+		},
+		{
+			"file": "/private/home/jacksonwoodruff/Projects/CGRA/CGRA-Mapper/Loops4/loop_DarkNet_1237.c",
+			"weight": 1.0
+		}
+	]
+}

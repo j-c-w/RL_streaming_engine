@@ -1,8 +1,0 @@
-version: '3.4'
-
-services:
-  streamingenginescheduler:
-    image: streamingenginescheduler
-    build:
-      context: .
-      dockerfile: ./Dockerfile
