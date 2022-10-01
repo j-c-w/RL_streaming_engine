@@ -40,8 +40,9 @@ mkdir -p output_eval/$output_folder
 echo "Mode is $mode"
 if [[ $mode == *RL* ]]; then
 	echo "Running RL "
-	python cgra_place.py --model-no-cgra-state --temp-folder temp_eval $1 $2 $3 --random-cgras $number --train-only --save-model trained_model.pk > output_eval/$output_folder/training
-	python cgra_place.py --model-no-cgra-state  --temp-folder temp_eval $1 $2 $3 --random-cgras $number --restore trained_model.pk --test > output_eval/$output_folder/testing
+	python cgra_place.py --print-cgras --model-no-cgra-state --temp-folder temp_eval $1 $2 $3 --random-cgras $number --train-only --save-model trained_model.pk > output_eval/$output_folder/training
+	# This uses the same CGRAs becuase it uses the same random seed to geenrate them.
+	python cgra_place.py --model-no-cgra-state --temp-folder temp_eval $1 $2 $3 --random-cgras $number --restore trained_model.pk --test > output_eval/$output_folder/testing
 else
 	# Do everything in a singl placement using simulated annealing.
 	echo "Running SA"
