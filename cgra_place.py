@@ -323,7 +323,7 @@ class PlacementEnv(gym.Env):
             })
         self.programs = programs
         self.tile_index = 0
-        self.sum_reward = 0.0
+        self.sum_reward = None
 
     # Sets up the tiles for the current CGRA
     def setup_tiles(self):
@@ -342,13 +342,22 @@ class PlacementEnv(gym.Env):
                         self.tiles.append(tile_tensor)
 
     def reset(self):
-        print("Total reward was: ", self.sum_reward)
-        print("==============================")
+        if self.sum_reward is not None:
+            # This is not the first run.
+            print("Total reward was: ", self.sum_reward)
+            print("==============================")
         self.sum_reward = 0.0
         self.tile_index = 0
         self.placement.reset()
         # Increment the operations we are placing.
-        self.current_cgra = random.randint(0, len(self.config_cgras) - 1)
+        if self.args.test:
+            # If we are evaluating, go in a determinsitc order through
+            # the CGRAs.
+            self.current_cgra = self.current_cgra + 1
+            if self.current_cgra >= len(self.config_cgras):
+                self.current_cgra = 0
+        else:
+            self.current_cgra = random.randint(0, len(self.config_cgras) - 1)
         self.setup_tiles()
         return self.get_observations()
     
@@ -521,6 +530,27 @@ def create_readable_output_for(instr):
             res.append(Instructions[i])
     return res
 
+def load_cgra_tiles_from_manual_distribution(file):
+    print("Loading manual from file", file)
+
+    with open(file) as f:
+        data = json.load(f)
+
+    row = data['row']
+    col = data['column']
+
+    tiles = []
+    # format of this dict is { op: <count> }
+    for op in data:
+        if op == 'row' or op == 'column':
+            continue
+
+        for i in range(data[op]):
+            tiles.append(op)
+    return row, col, tiles
+
+
+
 def load_cgra_tiles_from_file(file):
     # Using a file in the format of CGRA-Mapper, load the tiels
     # and sizes.
@@ -598,15 +628,16 @@ if __name__ == "__main__":
     parser.add_argument('--test', dest='test', default=False, action='store_true', help='Test a model')
     parser.add_argument('--model-with-program-features', dest='with_program_features', default=False, action='store_true', help='Use program features in classification')
     parser.add_argument('--model-no-cgra-state', dest='no_cgra_state', default=False, action='store_true', help='Use current CGRA schedule in classification')
+    parser.add_argument('--print-cgras', dest='print_cgras', default=False, action='store', help='Print the CGRAs that are generated.')
+    parser.add_argument('--manual-distribution', dest='manual_distribution', default=False, action='store_true', help="Use a mangual distribution for teh CGRA input --- note that this has a different json import format.")
     args = parser.parse_args()
 
     if not os.path.exists(args.temp_folder):
         os.mkdir(args.temp_folder)
 
-    rows, cols, tiles = load_cgra_tiles_from_file(args.CGRA)
-    print("Loaded sizes are ", rows, cols)
-
     if args.random_cgras:
+        rows, cols, tiles = load_cgra_tiles_from_file(args.CGRA)
+        print("Loaded sizes are ", rows, cols)
         # Generate a bunch of random CGRAs for training on.
         # TODO -- should treat the base cgra as the min possible number
         # of operations.
@@ -622,10 +653,20 @@ if __name__ == "__main__":
                 assert False
 
             cgras.append(descr)
+    elif args.manual_distribution:
+        rows, cols, tiles = load_cgra_tiles_from_manual_distribution(args.CGRA)
+
+        random.seed(1) # I don't thik this does random stuff, but justs to be sure.
+        cgras = [CGRADescription(rows, cols, tiles=tiles)]
+        
     else:
         print ("Unsupported mode --- use --random-cgras and pass exploration mode")
         assert False
         pass
+
+    if args.print_cgras:
+        for i in range(len(cgras)):
+            print("CGRA " + i + ":", str(cgras[i]))
 
     # TODO -- pre-compile this stuff to save time.
     benchmarks = load_benchmarks_from_json(args, args.benchmark_files)
@@ -670,6 +711,8 @@ if __name__ == "__main__":
                     "no_cgra_state": args.no_cgra_state,
                 },
             },
+            "evaluation_duration": len(cgras),
+            "evaluation_duration_unit": "episodes",
             "framework": "torch",
             "gamma": 1.0,
             # Tweak the default model provided automatically by RLlib,
