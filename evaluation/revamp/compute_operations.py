@@ -2,6 +2,7 @@ import json
 import argparse
 import os
 import subprocess
+import cgra_place
 
 class Benchmark:
     def __init__(self, file, weight):
@@ -10,6 +11,7 @@ class Benchmark:
 
 def load_benchmarks_from_json(jsonfile):
     benchmarks = []
+    print("Loading benchmarks file", jsonfile)
     with open(jsonfile) as f:
         bench = json.load(f)
         descr = bench['benchmarks']
@@ -35,6 +37,11 @@ def compute_distribution(description, benchmark):
 
     return res
 
+def params_file_from_description(args, description, output_file):
+    cgra = cgra_place.CGRA([], description['row'], description['column'], args)
+    with open(output_file, 'w') as f:
+        f.write(json.dumps(cgra.create_cgra_mapper_config()))
+
 def compute_actual_frequencies(description, counts):
     total_ops = description['num_ops']
     result_description = {}
@@ -43,22 +50,42 @@ def compute_actual_frequencies(description, counts):
     total = 0
     for op in counts:
         total += counts[op]
-        frequencies[op] = counts[op]
+        if op in frequencies:
+            frequencies[op] += counts[op]
+        else:
+            frequencies[op] = counts[op]
 
+    print("Total is ", total)
     for op in frequencies:
+        print("Number of op is", frequencies[op])
         frequencies[op] = float(frequencies[op]) / float(total)
+        print("Fraction for ", op, "is", frequencies[op])
 
+    print("Total ops should be ", total_ops)
     # Build the total ops now
     for op in frequencies:
-        result_description[op] = min(1, int(frequencies[op] * total_ops))
+        result_description[op] = max(1, int(frequencies[op] * total_ops))
+        print("Generated", result_description[op], "of", op)
 
     return result_description
 
+# LIst of skipped ops frmo DFGNode.isTransparentOp
+def is_invisible(op):
+    if op == "fptosi" or op == "ret" or op == "phi" or op == "bitcast" or op == "trunc" or op == "Constant" or op == "getelementptr" or op == "extractelement" or op == "insertelement" or op == "load" or op == "store":
+        return True
+    else:
+        return False
 
 def merge_distributions(distributions):
     result = {}
     for distrib in distributions:
         for op in distrib:
+            if op.startswith('const') or op == 'Constant':
+                # Skip these as they are 'free'.
+                continue
+            if is_invisible(op):
+                # likewise
+                continue
             if op in result:
                 result[op] += distrib[op]
             else:
@@ -73,24 +100,25 @@ if __name__ == "__main__":
     parser.add_argument('output_folder')
     args = parser.parse_args()
 
+    cgra_description_file = args.output_folder + '/cgra_description.json'
     # First, load all the benchmarks.
     benchmarks = load_benchmarks_from_json(args.benchmark_description)
     spec = load_specification_from_json(args.cgra_specification)
+    params_file_from_description(args, spec, cgra_description_file)
+    cgra_spec = load_specification_from_json(cgra_description_file)
+    cgra_spec['num_ops'] = spec['num_ops']
 
     distributions = []
-    n = 0
     for b in benchmarks:
-        if n > 2:
-            break
-        n += 1
         distributions.append(compute_distribution(args.cgra_specification, b))
 
     result_frequencies = merge_distributions(distributions)
 
     # Now, compute the actual number
-    result_dict = compute_actual_frequencies(spec, result_frequencies)
+    result_dict = compute_actual_frequencies(cgra_spec, result_frequencies)
     result_dict['row'] = spec['row']
     result_dict['column'] = spec['column']
+    result_dict['num_ops'] = spec['num_ops']
 
-    with open(args.output_folder, 'w') as f:
+    with open(args.output_folder + '/cgra.json', 'w') as f:
         json.dump(result_dict, f)

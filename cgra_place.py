@@ -124,7 +124,7 @@ def run_on_benchmark(args):
     # here, there it is something a bit off with the nix-wrapper
     # that this has to be accessed through.
     with open(cgra.args.temp_folder + '/temp_output_' + id, 'w') as f:
-        p = subprocess.Popen(('cgra-mapper', benchmark.file, '--params-file ~/Projects/CGRA/RL_streaming_engine/' + cgra.args.temp_folder + '/temp_config' + config_id + '.json'), stderr=f, stdout=f)
+        p = subprocess.Popen(('cgra-mapper', benchmark.file, '--params-file ~/Projects/CGRA/RL_streaming_engine/' + cgra.args.temp_folder + '/temp_config' + config_id + '.json' + ' --use-egraphs --egraph-mode frequency'), stderr=f, stdout=f)
         p.wait()
     # Have to deal with the weird gibberish that opt puts in the
     # stdout.  Probably faster with this anyway.
@@ -141,6 +141,7 @@ def run_on_benchmark(args):
                 found_II = True
                 if found_II:
                     pass
+    print("IIs found was", II)
     return II
 
 class Benchmark(object):
@@ -230,7 +231,7 @@ class CGRA(object):
 
         # Run the CGRA Mapper for each of the benchmarks.
         if parallel:
-            with mp.Pool(20) as p:
+            with mp.Pool(15) as p:
                 IIs = p.map(run_on_benchmark, [(b, self, id) for b in self.programs])
         else:
             IIs = []
@@ -502,7 +503,7 @@ class Annelaer():
                     pass
 
             cgra.swap(random_source, random_target, op=op)
-            cost = abs(cgra.compute_reward(parallel=True))
+            cost = abs(cgra.compute_reward(parallel=False))
 
             # Compute the current cost:
             if cost < current_cost or random.random() * (1.0 + current_rate) > float(cost) / float(current_cost):
@@ -538,16 +539,20 @@ def load_cgra_tiles_from_manual_distribution(file):
 
     row = data['row']
     col = data['column']
+    max_tiles = data['num_ops']
 
     tiles = []
+    distribution = {}
     # format of this dict is { op: <count> }
     for op in data:
-        if op == 'row' or op == 'column':
+        if op == 'row' or op == 'column' or op == 'num_ops':
             continue
+
+        distribution[op] = data[op]
 
         for i in range(data[op]):
             tiles.append(op)
-    return row, col, tiles
+    return row, col, tiles, distribution, max_tiles
 
 
 
@@ -583,6 +588,10 @@ class CGRADescription():
         else:
             self.tiles = [create_tile_for(x) for x in tiles]
 
+    def __str__(self):
+        # TODO -- properly print the tiles.
+        return "Rows: " + str(self.rows) + ", Cols: " + str(self.cols) + ", Tiles:" + str(tiles)
+
     # Set the tiles available to this Description by gaussion distribution
     # around the number of tiles in a description dictionary.
     def get_gaussian_tiles(self, tile_counts):
@@ -591,16 +600,37 @@ class CGRADescription():
         assert False # TODO --- Implement
 
     # Get the number of tiles according to the exponential distribution.
-    def get_exponential_tiles(self, gamma=0.5):
+    def get_exponential_tiles(self, gamma=0.5, distribution=None, max_tiles=None):
+        # Distribution should be a map from Instruction->gamma for that
+        # instruction.
+        default_gamma = gamma
+
         # This distribution has mean 1/gamma and variance 1/gamma^2.
         # So this function produces len(Instructions) * 1/gamma operations
         # on average.
-        self.tiles = []
-        for instr in Instructions:
-            number = int(np.round(np.random.exponential(scale=1.0/gamma)) + 1)
+        setup = False # Keep setting up until we generate architectures
+        # with fewer than max_tiles.
+        while not setup:
+            self.tiles = []
+            tile_count = 0
 
-            for i in range(number):
-                self.tiles.append(create_tile_for([instr]))
+            for instr in Instructions:
+                if distribution is not None:
+                    if instr in distribution:
+                        gamma = distribution[instr]
+                    else:
+                        # If the instruction is not in the distribution,
+                        # disable generation of that instruction.
+                        gamma = 10.0
+                number = int(np.round(np.random.exponential(scale=1.0/gamma)) + 1)
+                tile_count += number
+
+                for i in range(number):
+                    self.tiles.append(create_tile_for([instr]))
+            if tile_count != max_tiles:
+                setup = False
+            else:
+                setup = True
 
 def load_benchmarks_from_json(args, jsonfile):
     benchmarks = []
@@ -628,7 +658,7 @@ if __name__ == "__main__":
     parser.add_argument('--test', dest='test', default=False, action='store_true', help='Test a model')
     parser.add_argument('--model-with-program-features', dest='with_program_features', default=False, action='store_true', help='Use program features in classification')
     parser.add_argument('--model-no-cgra-state', dest='no_cgra_state', default=False, action='store_true', help='Use current CGRA schedule in classification')
-    parser.add_argument('--print-cgras', dest='print_cgras', default=False, action='store', help='Print the CGRAs that are generated.')
+    parser.add_argument('--print-cgras', dest='print_cgras', default=False, action='store_true', help='Print the CGRAs that are generated.')
     parser.add_argument('--manual-distribution', dest='manual_distribution', default=False, action='store_true', help="Use a mangual distribution for teh CGRA input --- note that this has a different json import format.")
     args = parser.parse_args()
 
@@ -636,7 +666,12 @@ if __name__ == "__main__":
         os.mkdir(args.temp_folder)
 
     if args.random_cgras:
-        rows, cols, tiles = load_cgra_tiles_from_file(args.CGRA)
+        if args.manual_distribution:
+            rows, cols, tiles, distribution, max_tiles = load_cgra_tiles_from_manual_distribution(args.CGRA)
+        else:
+            rows, cols, tiles = load_cgra_tiles_from_file(args.CGRA)
+            distribution = None # TODO -- should we load a base distribution from this?
+            max_tiles = None
         print("Loaded sizes are ", rows, cols)
         # Generate a bunch of random CGRAs for training on.
         # TODO -- should treat the base cgra as the min possible number
@@ -647,14 +682,14 @@ if __name__ == "__main__":
         for i in range(num_cgras):
             descr = CGRADescription(rows, cols, tiles=tiles)
             if args.exploration_model == 'exponential':
-                descr.get_exponential_tiles()
+                descr.get_exponential_tiles(distribution=distribution, max_tiles=max_tiles)
             else:
                 print("Unsupported operation model", args.exploration_model)
                 assert False
 
             cgras.append(descr)
     elif args.manual_distribution:
-        rows, cols, tiles = load_cgra_tiles_from_manual_distribution(args.CGRA)
+        rows, cols, tiles, distribution, max_tiles = load_cgra_tiles_from_manual_distribution(args.CGRA)
 
         random.seed(1) # I don't thik this does random stuff, but justs to be sure.
         cgras = [CGRADescription(rows, cols, tiles=tiles)]
@@ -666,7 +701,7 @@ if __name__ == "__main__":
 
     if args.print_cgras:
         for i in range(len(cgras)):
-            print("CGRA " + i + ":", str(cgras[i]))
+            print("CGRA " + str(i) + ":", str(cgras[i]))
 
     # TODO -- pre-compile this stuff to save time.
     benchmarks = load_benchmarks_from_json(args, args.benchmark_files)
@@ -724,7 +759,7 @@ if __name__ == "__main__":
             # },
             # Set up a separate evaluation worker set for the
             # `trainer.evaluate()` call after training (see below).
-            "evaluation_num_workers": 1,
+            "evaluation_num_workers": 50,
             "evaluation_config": {
                 "explore": False
             }
@@ -773,7 +808,7 @@ if __name__ == "__main__":
             },
             # Use 2 environment workers (aka "rollout workers") that parallelly
             # collect samples from their own environment clone(s).
-            "num_workers": 50,
+            "num_workers": 1,
             # Change this to "framework: torch", if you are using PyTorch.
             # Also, use "framework: tf2" for tf2.x eager execution.
             "framework": "torch",

@@ -1,43 +1,43 @@
 {
     "benchmarks": [
         {
-            "file": "benchmarks/Loops4/loop_bzip2_125.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c",
             "weight": 1.0
         },
         {
-            "file": "benchmarks/Loops4/loop_bzip2_126.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c",
             "weight": 1.0
         },
         {
-            "file": "benchmarks/Loops4/loop_bzip2_127.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c",
             "weight": 1.0
         },
         {
-            "file": "benchmarks/Loops4/loop_bzip2_12.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c",
             "weight": 1.0
         },
         {
-            "file": "benchmarks/Loops4/loop_bzip2_263.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_263.c",
             "weight": 1.0
         },
         {
-            "file": "benchmarks/Loops4/loop_bzip2_333.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c",
             "weight": 1.0
         },
         {
-            "file": "benchmarks/Loops4/loop_bzip2_660.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c",
             "weight": 1.0
         },
         {
-            "file": "benchmarks/Loops4/loop_bzip2_661.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c",
             "weight": 1.0
         },
         {
-            "file": "benchmarks/Loops4/loop_bzip2_784.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c",
             "weight": 1.0
         },
         {
-            "file": "benchmarks/Loops4/loop_bzip2_818.c",
+            "file": "~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c",
             "weight": 1.0
         }
     ]
