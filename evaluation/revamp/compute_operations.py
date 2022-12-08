@@ -13,7 +13,7 @@ def load_benchmarks_from_json(jsonfile):
     benchmarks = []
     print("Loading benchmarks file", jsonfile)
     with open(jsonfile) as f:
-        bench = json.load(f)
+        bench = json.loads(f.read())
         descr = bench['benchmarks']
         for d in descr:
             benchmark_file = d['file']
@@ -29,11 +29,11 @@ def load_specification_from_json(jsonfile):
 
 # Run the cgra-mapper tool, which will compute the operation
 # distribution.
-def compute_distribution(description, benchmark):
-    subprocess.run(['cgra-mapper', benchmark.file, '--params-file ' + description + ' --frequencies ' + os.getcwd() + '/features_output.json --skip-build'])
+def compute_distribution(output_folder, description, benchmark):
+    subprocess.run(['cgra-mapper', benchmark.file, '--params-file ' + description + ' --frequencies ' + output_folder + '/features_output.json --skip-build'])
     # Load the result into a dict.
-    with open('features_output.json', 'r') as f:
-        res = json.load(f)
+    with open(output_folder + '/features_output.json', 'r') as f:
+        res = json.loads(f.read())
 
     return res
 
@@ -64,7 +64,7 @@ def compute_actual_frequencies(description, counts):
     print("Total ops should be ", total_ops)
     # Build the total ops now
     for op in frequencies:
-        result_description[op] = max(1, int(frequencies[op] * total_ops))
+        result_description[op] = max(1, int(frequencies[op] * total_ops + 0.99))
         print("Generated", result_description[op], "of", op)
 
     return result_description
@@ -91,6 +91,7 @@ def merge_distributions(distributions):
             else:
                 result[op] = distrib[op]
 
+    print("Ops in distriubtion are ", result.keys())
     return result
 
 if __name__ == "__main__":
@@ -110,7 +111,7 @@ if __name__ == "__main__":
 
     distributions = []
     for b in benchmarks:
-        distributions.append(compute_distribution(args.cgra_specification, b))
+        distributions.append(compute_distribution(args.output_folder, args.cgra_specification, b))
 
     result_frequencies = merge_distributions(distributions)
 

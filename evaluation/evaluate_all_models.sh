@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sbatch ./evaluation/evaluate_model.sh --slurm output_eval/egraphs_0.005lr_150gs_15_nov_100_2DarkNet.json_out/trained_model.pk_20 output_eval/egraphs_0.005lr_150gs_12_nov_100_2DarkNet.json_out/cgra.json  benchmarks/DarkNet.json EvalDarkNet
+sbatch ./evaluation/evaluate_model.sh --slurm output_eval/egraphs_0.005lr_150gs_15_nov_100_2bzip.json_out/trained_model.pk_20 output_eval/egraphs_0.005lr_150gs_12_nov_100_2bzip.json_out/cgra.json  benchmarks/bzip.json Evalbzip
+sbatch ./evaluation/evaluate_model.sh --slurm output_eval/egraphs_0.005lr_150gs_15_nov_100_2ffmpeg.json_out/trained_model.pk_20 output_eval/egraphs_0.005lr_150gs_12_nov_100_2ffmpeg.json_out/cgra.json  benchmarks/ffmpeg.json Evalffmpeg
+sbatch ./evaluation/evaluate_model.sh --slurm output_eval/egraphs_0.005lr_150gs_15_nov_100_2freeimage.json_out/trained_model.pk_20 output_eval/egraphs_0.005lr_150gs_12_nov_100_2freeimage.json_out/cgra.json  benchmarks/freeimage.json Evalfreeimage
+sbatch ./evaluation/evaluate_model.sh --slurm output_eval/egraphs_0.005lr_150gs_15_nov_100_2livermorec.json_out/trained_model.pk_20 output_eval/egraphs_0.005lr_150gs_12_nov_100_2livermorec.json_out/cgra.json  benchmarks/livermorec.json Evallivermorec

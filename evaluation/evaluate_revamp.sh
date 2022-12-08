@@ -11,11 +11,11 @@ set -eu
 if [[ ${#slurm} -gt 0 ]]; then
     # Set up terminal properly for slurm running
     source /etc/profile.d/modules.sh
-    module load cuda
+    module load cuda/11.4
     module load anaconda3
     source ~/.bashrc
     conda activate streaming_engine
-    export PATH=$PATH:~/Projects/CGRA/CGRA-Mapper-2/bin
+    export PATH=$PATH:~/Projects/CGRA/CGRA-Mapper/bin
     export PYTHON_PATH=$PWD
 fi
 
@@ -38,7 +38,13 @@ output_folder=$3
 
 mkdir -p output_eval/$output_folder
 
-python evaluation/revamp/compute_operations.py $cgra_spec $bench_desc output_eval/$output_folder
+python compute_operations.py evaluation/param.json $bench_desc output_eval/$output_folder
+echo "Compute operations done!"
 
 # Now that we have generated the architecture, use the SA placer.
-python cgra_place.py --temp-folder evaluation_temps $PWD/output_eval/$output_folder/cgra.json $bench_desc none --annealer --manual-distribution > output_eval/$output_folder/annealing
+targ_file=output_eval/$output_folder/annealing
+if [[ -f $targ_file ]]; then
+    mv $targ_file output_eval/$output_folder/annealing.old
+fi
+python cgra_place.py --temp-folder evaluation_temps $PWD/output_eval/$output_folder/cgra.json $bench_desc none --annealer --manual-distribution > $targ_file
+echo "Place Done -- in $targ_file"
