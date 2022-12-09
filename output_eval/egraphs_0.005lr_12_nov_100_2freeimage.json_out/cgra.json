@@ -1,0 +1,1 @@
+{"add": 4, "br": 6, "fadd": 2, "fmul": 2, "icmp": 2, "or": 1, "zext": 2, "sext": 3, "sitofp": 1, "sub": 1, "ashr": 1, "mul": 1, "and": 1, "row": 6, "column": 6, "num_ops": 30}

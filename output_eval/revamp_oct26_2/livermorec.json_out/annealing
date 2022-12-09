@@ -1,0 +1,130 @@
+CGRA description is in /private/home/jacksonwoodruff/Projects/CGRA/RL_streaming_engine/output_eval/revamp_oct26_2/livermorec.json_out/cgra.json
+Loading manual from file /private/home/jacksonwoodruff/Projects/CGRA/RL_streaming_engine/output_eval/revamp_oct26_2/livermorec.json_out/cgra.json
+Looking at cgra  0
+Running annealer
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_821.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1339.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_810.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1302.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1328.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 21
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_700.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 32
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1327.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1194.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1329.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_701.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0927ed08-e0e3-4360-aca4-ff08fadfc842.json
+IIs found was 100000
+Computed IIs  [32, 100000, 16, 16, 100000, 16, 100000, 21, 100000, 16]
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_700.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 32
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_701.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_810.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_821.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1194.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1302.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1327.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1328.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1329.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1339.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf9368dca-170c-4fc8-8538-159521a645c5.json
+IIs found was 100000
+Computed IIs  [32, 100000, 15, 16, 100000, 100000, 100000, 100000, 100000, 100000]
+Swapped 287 for  245
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_700.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_701.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_810.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_821.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1194.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1302.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1327.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1328.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1329.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1339.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28f40f35-a26d-423d-aa5e-1451a660bc5c.json
+IIs found was 100000
+Computed IIs  [100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000]
+Swapped 0 for  287
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_700.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_701.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_810.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_821.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1194.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1302.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1327.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1328.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1329.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_LivermoreC_1339.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3aa7cb7d-ca00-42de-ac4e-159e6b82cd1f.json
+IIs found was 100000
+Computed IIs  [100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000]

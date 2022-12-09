@@ -1,0 +1,98 @@
+CGRA description is in /private/home/jacksonwoodruff/Projects/CGRA/RL_streaming_engine/output_eval/revamp_oct31_egraphs/DarkNet.json_out/cgra.json
+Loading manual from file /private/home/jacksonwoodruff/Projects/CGRA/RL_streaming_engine/output_eval/revamp_oct31_egraphs/DarkNet.json_out/cgra.json
+Looking at cgra  0
+Running annealer
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_508.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 9
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_109.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_507.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_243.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 19
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_309.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 18
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_96.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 23
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_93.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 25
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_407.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 29
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_196.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 29
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_408.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb64b23b3-efcd-408b-9d26-6e0342172eed.json
+IIs found was 100000
+Computed IIs  [10, 25, 23, 29, 19, 18, 29, 100000, 11, 9]
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_243.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_196.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_309.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_93.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_96.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_407.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_408.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_109.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_507.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_508.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d83d034-a9ba-4e3f-ace4-f6e8f0e99610.json
+IIs found was 100000
+Computed IIs  [100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000]
+Swapped 0 for  202
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_96.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_408.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_93.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_243.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_109.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_407.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_196.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_508.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_507.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_DarkNet_309.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7b8706b3-e6a4-443a-9ebe-272b6b4dfff7.json
+IIs found was 100000
+Computed IIs  [100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000]

@@ -1,0 +1,130 @@
+CGRA description is in /private/home/jacksonwoodruff/Projects/CGRA/RL_streaming_engine/output_eval/revamp_oct26_2/ffmpeg.json_out/cgra.json
+Loading manual from file /private/home/jacksonwoodruff/Projects/CGRA/RL_streaming_engine/output_eval/revamp_oct26_2/ffmpeg.json_out/cgra.json
+Looking at cgra  0
+Running annealer
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_0.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 26
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_5.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 34
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_6.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_4.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_8.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_7.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_11.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_9.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_12.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_10.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config13c7b64b-4ffc-465f-80df-5cb7e57a64fe.json
+IIs found was 100000
+Computed IIs  [26, 100000, 34, 100000, 100000, 100000, 100000, 100000, 100000, 100000]
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_0.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 26
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_4.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_5.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 34
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_6.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_7.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_8.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_9.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_10.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_11.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_12.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config48a006bc-5794-4429-86d6-010b619bb5a1.json
+IIs found was 100000
+Computed IIs  [26, 100000, 34, 100000, 100000, 100000, 100000, 100000, 100000, 100000]
+Swapped 324 for  324
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_0.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_4.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_5.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_6.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_7.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_8.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_9.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_10.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_11.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_12.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c5fa691-3734-449a-80ab-a6835ea65acf.json
+IIs found was 100000
+Computed IIs  [100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000]
+Swapped 0 for  324
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_0.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_4.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_5.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_6.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_7.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_8.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_9.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_10.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_11.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_ffmpeg_12.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5d0f6448-63d3-413e-905c-9ded3c7e94fb.json
+IIs found was 100000
+Computed IIs  [100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000, 100000]

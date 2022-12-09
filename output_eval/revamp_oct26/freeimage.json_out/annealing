@@ -1,0 +1,2670 @@
+CGRA description is in /private/home/jacksonwoodruff/Projects/CGRA/RL_streaming_engine/output_eval/revamp_oct26/freeimage.json_out/cgra.json
+Loading manual from file /private/home/jacksonwoodruff/Projects/CGRA/RL_streaming_engine/output_eval/revamp_oct26/freeimage.json_out/cgra.json
+Looking at cgra  0
+Running annealer
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config794d2d29-99e6-4c2f-bc4e-df60fdddc9ef.json
+IIs found was 100000
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 100000]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config29469ab9-a75e-414c-b005-3865267fd635.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  123
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1bbbb455-f2cb-48e7-bcad-fd160008865a.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1417524e-305c-436c-bf4c-bf5821ed85e0.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa13daa6a-0ec8-4c82-8e56-ac77c1d17d2f.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configfef54fed-18a8-4ad9-b456-8d8e81ce3f0e.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd2d93df0-955b-4385-9bce-92993e4631ce.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28910da3-3795-4cf0-8270-b32967d6013e.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8403c04d-f887-41e3-ba19-e6ef8211a322.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config576d1111-4913-482b-b267-d52c2d0caf8a.json
+IIs found was 100000
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 100000]
+Swapped 123 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config009bbc46-547a-4289-8e7a-293d9397bf75.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  123
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa7273292-b36c-469d-8b1c-43db1cc064b5.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0487d662-fe09-47b5-8959-90361d5ae32f.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configddc8e862-43ea-4e14-9358-c285b919096b.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config05d4a272-09f8-4290-ad52-258e3ed5c00f.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9c8ad1a9-dc4f-440d-9e11-be4373f2b73f.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2d110e9a-cba4-46ba-942f-1744829b8118.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa349ae2b-ee6b-4571-86e3-e835b6b2f0fd.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbdbc92b9-4049-47a1-91c0-5f7727ea55b7.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa678e2d3-75ee-4b19-86fe-29c792bcc04b.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 11, 43]
+Swapped 152 for  152
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4019dea8-f783-43fa-a71a-8318fb0eb3a5.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  152
+Reducing rate to  5.0 best score 149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1fa225c1-5cf0-40ea-99b4-a3013c15276a.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbff0756e-33d4-497c-b9f3-22d9056925c5.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config83673702-40fb-443c-a9e8-4ed6a96fd0d3.json
+IIs found was 100000
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 100000]
+Swapped 120 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa8040c0c-f377-4fed-8c5d-041e169fe0e2.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf176f491-2042-4f36-9fc0-033c2e4c70ea.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  120
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac13ec11-94f8-4130-86cf-4eed1e56b71d.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configf7c97309-f20c-4460-b87f-12c1f343d2ca.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2921cea1-6c26-456b-a8fc-bef39fa76dc9.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config32dcd37e-47c4-4f14-bde5-49a8d2036427.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb55c7718-839f-4da3-93ab-e047d60bdfe4.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config26e01fef-1d7a-4e34-ade6-a3662a738a24.json
+IIs found was 43
+Computed IIs  [13, 10, 13, 14, 13, 11, 11, 100000, 8, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige6d77211-1327-46cb-aa3b-46a7e1a0755c.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd64bc721-6f6e-4e72-8626-bc2f969ef276.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3db1d064-70ac-442d-8290-190c8174f371.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02b92367-a64b-4b0f-b9ce-a6f99269ebaf.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configcff6ac65-cf04-47f7-a227-b22ecd38b5e1.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd37698f3-5b77-4b86-83f0-d17b4969784a.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configa706d1be-0bd6-43b3-99d7-6827a6b74327.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 14
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 8
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config675482f3-bcde-43ba-a2df-21ced8239830.json
+IIs found was 43
+Computed IIs  [13, 10, 12, 14, 13, 11, 11, 100000, 8, 43]
+Swapped 149 for  149
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config2e63266e-d9d6-4958-bf8d-cb22e96bad3b.json
+IIs found was 43
+Computed IIs  [13, 11, 13, 15, 16, 11, 11, 100000, 10, 43]
+Swapped 159 for  149
+Reducing rate to  2.5 best score 159
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd69f9640-c618-4f12-bf7a-da534630fce0.json
+IIs found was 43
+Computed IIs  [13, 11, 13, 15, 16, 11, 11, 100000, 10, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config69847ab6-aa83-4d34-a5e2-2dbd7927a574.json
+IIs found was 43
+Computed IIs  [13, 11, 13, 15, 16, 11, 11, 100000, 10, 43]
+Swapped 159 for  159
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config869f3eb4-f749-42a2-beb6-aa3dcabe64ad.json
+IIs found was 100000
+Computed IIs  [13, 11, 13, 15, 16, 11, 11, 100000, 10, 100000]
+Swapped 132 for  159
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config82bb10cc-6179-4ef4-867a-f8c99468d2bc.json
+IIs found was 43
+Computed IIs  [13, 11, 13, 15, 16, 11, 11, 100000, 10, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config80424ac9-57a7-42c3-82bf-4869ddfcb776.json
+IIs found was 43
+Computed IIs  [13, 11, 13, 15, 16, 11, 11, 100000, 10, 43]
+Swapped 159 for  132
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd735cc36-b015-4778-b6c8-df22f5a0a0fe.json
+IIs found was 43
+Computed IIs  [13, 11, 13, 15, 16, 11, 11, 100000, 10, 43]
+Swapped 159 for  159
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config076ef963-ebfb-4a13-a1c5-51c870dc41f3.json
+IIs found was 43
+Computed IIs  [13, 11, 13, 15, 16, 11, 11, 100000, 10, 43]
+Swapped 159 for  159
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 10
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6c061af8-65ec-4ee3-90e1-782856c24d43.json
+IIs found was 43
+Computed IIs  [13, 11, 13, 15, 16, 11, 11, 100000, 10, 43]
+Swapped 159 for  159
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3b91a509-9ab3-4470-9c45-78c17d84dbbb.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 11, 43]
+Swapped 162 for  159
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config9881b1c8-2e85-4a7d-b28b-02a407888b7b.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 11, 43]
+Swapped 162 for  162
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5692774a-018c-49cf-998f-d153c2f4dab4.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 11, 43]
+Swapped 162 for  162
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6065fc31-ed93-40fb-8a7e-9d12090ddc7f.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 11, 43]
+Swapped 162 for  162
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 11
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config957763a0-7f00-4970-addc-2fd6c40e4b78.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 11, 43]
+Swapped 162 for  162
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config560dabbd-e036-4f3c-bdeb-a98dba4b79f1.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  162
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb30cdef3-f1e3-48e7-8ef7-de5b2258291e.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5655d5b-8001-4015-8250-4ce05d2b2dfb.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1e41497c-7024-4f02-8622-c1e1ef35b54e.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configbeba8e03-6bc7-4223-b5bc-8bddd480e36b.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7fc8ba60-b8ea-4a08-8024-eb987a219bb1.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config47d8945d-038b-4738-8fb9-899f6cdea619.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Reducing rate to  1.25 best score 164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_confige5fe79dd-3937-4a8d-abf5-df93c7d73b57.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config1ad90ce2-e896-4a70-86f4-7546a95f2b31.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb5045ad1-8fd3-4cc4-9456-faeb588758b1.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config10abdf26-fb17-49e1-b7cc-2bc5856ebdd9.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config02668e89-c85b-4247-9a83-5cdd82e329fe.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config482167ac-cc3d-4dba-926b-6b0849c288c4.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config6e0f0216-1b93-49ae-91cb-a0a45d95f93e.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5179262b-3c98-4265-9bfe-7b482674b596.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configb7283f20-e2ca-4a0f-acac-50e2b7264c99.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configd81309cd-90c0-41a3-aaf3-2159b6c8d1c8.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config5187f57c-a323-4003-9bb8-f804c5b1c6bb.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 17
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config7df4d228-a682-4717-8366-cabe6a9d02b7.json
+IIs found was 43
+Computed IIs  [13, 13, 13, 15, 17, 13, 13, 100000, 13, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configda403079-5888-474a-904d-5f06ce7c8881.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config3ddb1169-e65f-4e48-82e4-8a6786e7f1e2.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configac7fc927-3b53-4af5-b990-f0726905f45b.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config0664cc3a-34ab-404f-b027-b15a195f385f.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config28e39113-db77-44ad-abce-e45810f63c00.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Swapped 164 for  164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config4641b698-526f-469d-bd79-efaed2a30bd9.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configed70fb28-fddd-4a1a-b5db-4ddd27ece185.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 17
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_configc7fe300b-eee5-4a28-b104-c53a2055f1c2.json
+IIs found was 43
+Computed IIs  [13, 13, 13, 15, 17, 13, 13, 100000, 15, 43]
+Reducing rate to  0.625 best score 164
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config8d57c821-554c-4151-965f-f2e0b6f7d561.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_1.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_2.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_3.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_65.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 15
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_103.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 16
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_122.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_123.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 12
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_131.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 100000
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_132.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 13
+Starting run of benchmark benchmarks/Loops4/loop_freeimage_150.c
+Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps/temp_config41e53198-59ec-4b36-a985-be420b218003.json
+IIs found was 43
+Computed IIs  [13, 12, 12, 15, 16, 12, 12, 100000, 13, 43]
+For CGRA 0
+Annealing result is  (164, [[tensor([0., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1., 0., 0., 1., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1.,
+        0., 0., 0., 0., 0., 0.]), tensor([1., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])], [tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 1., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1., 0., 0.,
+        0., 0., 0., 0., 0., 0.])], [tensor([0., 0., 0., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 1., 1., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 0., 1., 0., 1., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])], [tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1., 1., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 0., 1., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])], [tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 1., 0., 0., 0., 1., 0., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])], [tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1., 0., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 1., 0.,
+        0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]), tensor([0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.])]])
+Steps required was  82

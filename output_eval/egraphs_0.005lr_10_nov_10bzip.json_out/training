@@ -1,0 +1,1506 @@
+CGRA description is in output_eval/egraphs_0.005lr_10_nov_10bzip.json_out/cgra.json
+Loading manual from file output_eval/egraphs_0.005lr_10_nov_10bzip.json_out/cgra.json
+Loaded sizes are  6 6
+Looking at cgra  0
+Running RL
+Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419096)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419096)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419096)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419097)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419097)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419097)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419098)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419098)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419098)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419100)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419100)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419100)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419103)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419103)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419103)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419102)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419102)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419102)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419108)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419108)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419108)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419112)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419112)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419112)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419110)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419110)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419110)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419110)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419110)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419106)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419106)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419106)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419096)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419096)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419097)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419097)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419098)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419098)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419100)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419100)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419103)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419103)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419102)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419102)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419108)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419108)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419112)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419112)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419106)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419106)[0m Initializing placement model with  (24,)
+{'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+Initializing placement model with  (24,)
+Starting iteration  0
+[2m[36m(RolloutWorker pid=1419096)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419096)[0m ==============================
+[2m[36m(RolloutWorker pid=1419096)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419097)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419097)[0m ==============================
+[2m[36m(RolloutWorker pid=1419097)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419098)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419098)[0m ==============================
+[2m[36m(RolloutWorker pid=1419098)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419100)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419100)[0m ==============================
+[2m[36m(RolloutWorker pid=1419100)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419103)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419103)[0m ==============================
+[2m[36m(RolloutWorker pid=1419103)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419102)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419102)[0m ==============================
+[2m[36m(RolloutWorker pid=1419102)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419108)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419108)[0m ==============================
+[2m[36m(RolloutWorker pid=1419108)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419112)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419112)[0m ==============================
+[2m[36m(RolloutWorker pid=1419112)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419110)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419110)[0m ==============================
+[2m[36m(RolloutWorker pid=1419110)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419106)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419106)[0m ==============================
+[2m[36m(RolloutWorker pid=1419106)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419561)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419561)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419561)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419561)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419561)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419560)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419560)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419560)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419560)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419560)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419562)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419562)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419562)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419562)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419562)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419564)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419564)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419564)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419564)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419564)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419568)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419568)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419568)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419568)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419568)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419566)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419566)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419566)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419577)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419577)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419577)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419577)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419577)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419572)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419572)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419572)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419572)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419572)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419566)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419566)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419570)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419570)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419570)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419570)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419570)[0m Initializing placement model with  (24,)
+[2m[36m(RolloutWorker pid=1419574)[0m Creating env with config{'model': {'custom_model': 'placement_model', 'custom_model_config': {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}}, 'num_workers': 10, 'framework': 'torch', 'gamma': 1.0, 'lr': 0.005, 'train_batch_size': 20, 'sgd_minibatch_size': 20, 'evaluation_num_workers': 10, 'recreate_failed_workers': True, 'evaluation_config': {'explore': False}}
+[2m[36m(RolloutWorker pid=1419574)[0m Looking at cgra  0
+[2m[36m(RolloutWorker pid=1419574)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419574)[0m {'rows': 6, 'cols': 6, 'true_obs_space': None, 'with_features': False, 'no_cgra_state': True}
+[2m[36m(RolloutWorker pid=1419574)[0m Initializing placement model with  (24,)
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Starting iteration  1
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Starting iteration  2
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Starting iteration  3
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Starting iteration  4
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Starting iteration  5
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Starting iteration  6
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Starting iteration  7
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Starting iteration  8
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Starting iteration  9
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+iteration done
+Saved checkpoint  /private/home/jacksonwoodruff/ray_results/PPOTrainer_PlacementEnv_2022-11-10_03-47-088ayeu343/checkpoint_000010/checkpoint-10
+Running evaluation
+[2m[36m(RolloutWorker pid=1419561)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419561)[0m ==============================
+[2m[36m(RolloutWorker pid=1419561)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419560)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419560)[0m ==============================
+[2m[36m(RolloutWorker pid=1419560)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419562)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419562)[0m ==============================
+[2m[36m(RolloutWorker pid=1419562)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419564)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419564)[0m ==============================
+[2m[36m(RolloutWorker pid=1419564)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419568)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419568)[0m ==============================
+[2m[36m(RolloutWorker pid=1419568)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419566)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419566)[0m ==============================
+[2m[36m(RolloutWorker pid=1419566)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419577)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419577)[0m ==============================
+[2m[36m(RolloutWorker pid=1419577)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419572)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419572)[0m ==============================
+[2m[36m(RolloutWorker pid=1419572)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419570)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419570)[0m ==============================
+[2m[36m(RolloutWorker pid=1419570)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419574)[0m Total reward was:  0.0
+[2m[36m(RolloutWorker pid=1419574)[0m ==============================
+[2m[36m(RolloutWorker pid=1419574)[0m Looking at cgra  6
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1c0231bb-7814-4edd-a4aa-ec0c202f5266.json
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config7852537d-0e8c-437d-9f89-1a73bd26c063.json
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config40abc90b-a45b-413b-ad69-ded6077b0204.json
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige501f3f8-46bf-4b8f-be71-54ac7f8d84e1.json
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd361fd1f-8de0-4611-8501-b053c64acd71.json
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config20c1d574-a24e-4304-8daa-5db074b8e899.json
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd62602ee-5f23-47b1-a993-2ae66cf41c8d.json
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige8e00a5a-48d3-4377-b771-1b92a2eb38d5.json
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd8010351-7677-428a-9e50-ec41add30294.json
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1a025de4-d50b-4fd4-9cbb-ab4a9a4117e5.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6abc1ab8-ee8e-4b55-87d1-50f6f5552698
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1c0231bb-7814-4edd-a4aa-ec0c202f5266.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e7d85768-08cc-4df5-81cc-de7e54519b77
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config7852537d-0e8c-437d-9f89-1a73bd26c063.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_95676749-4c38-4b57-9800-e63ec575f2cb
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige501f3f8-46bf-4b8f-be71-54ac7f8d84e1.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8d76e315-385f-4bae-a715-414f15afca98
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd361fd1f-8de0-4611-8501-b053c64acd71.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_67d91c46-6a49-4211-bf73-a8c677f27be9
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config20c1d574-a24e-4304-8daa-5db074b8e899.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_58c3227c-dc1e-4645-a2bf-bdc4a8f20279
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd62602ee-5f23-47b1-a993-2ae66cf41c8d.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e7e6c421-9140-4267-90cd-6900c3c10d60
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd8010351-7677-428a-9e50-ec41add30294.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_4b7bb883-a3da-4edf-bf03-62150e4eb1b9
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1a025de4-d50b-4fd4-9cbb-ab4a9a4117e5.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_9ed6274b-a4fb-462c-84c6-f6240370f0fa
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config40abc90b-a45b-413b-ad69-ded6077b0204.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6aba11b6-246c-41f3-bee0-46a8499fdc1c
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige8e00a5a-48d3-4377-b771-1b92a2eb38d5.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_11cc410e-c3c7-418d-94d7-e0051130f2b1
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1c0231bb-7814-4edd-a4aa-ec0c202f5266.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_1fecd131-0e4d-42c8-b1b3-6253297b7b4e
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config7852537d-0e8c-437d-9f89-1a73bd26c063.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_9bf7210e-85bc-4131-a63f-b7227783fab1
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config40abc90b-a45b-413b-ad69-ded6077b0204.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_a9b2946f-f4a2-4f76-b6f3-52fd843b02d5
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige501f3f8-46bf-4b8f-be71-54ac7f8d84e1.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_100f49b6-cd19-4234-b474-80687dce6b5e
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd361fd1f-8de0-4611-8501-b053c64acd71.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_537599a8-7e9a-4984-ae87-19fe745e9a47
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd62602ee-5f23-47b1-a993-2ae66cf41c8d.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0418bf71-ccd7-41ff-a273-8d875439f562
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd8010351-7677-428a-9e50-ec41add30294.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b756c4bf-922f-4a51-98e3-1183d39cafa7
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1a025de4-d50b-4fd4-9cbb-ab4a9a4117e5.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_9e1a6ed8-ef12-4b6d-adb3-6607855300b4
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config20c1d574-a24e-4304-8daa-5db074b8e899.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_a40521ac-98c8-4736-9566-1ee1bdd6a859
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige8e00a5a-48d3-4377-b771-1b92a2eb38d5.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8935e614-4cf4-4b93-8ce2-7b476323ae71
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config7852537d-0e8c-437d-9f89-1a73bd26c063.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_eaa84bdc-0f15-4df8-afc6-7a46a7c21ebe
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1a025de4-d50b-4fd4-9cbb-ab4a9a4117e5.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_28d9d720-beec-46c2-aef0-5a3a3269e2b2
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd361fd1f-8de0-4611-8501-b053c64acd71.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7c8c4fa1-e418-4ead-892c-787262e16ffb
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd62602ee-5f23-47b1-a993-2ae66cf41c8d.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_2bf22026-144a-4850-b01a-c399c238d494
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1c0231bb-7814-4edd-a4aa-ec0c202f5266.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_13d0a938-3e03-4fd4-b65d-425b09462cc4
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config20c1d574-a24e-4304-8daa-5db074b8e899.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7d8d96a7-8f8b-4ce3-9485-215f8ad99054
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige8e00a5a-48d3-4377-b771-1b92a2eb38d5.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_ff6331e8-8a67-4260-ab87-8bac467b2380
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd8010351-7677-428a-9e50-ec41add30294.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_ca0752a8-3c5c-41da-af09-ce569426e669
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige501f3f8-46bf-4b8f-be71-54ac7f8d84e1.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c2bc018f-1475-4cdd-8a1e-f17c0a6ca78c
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 39
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config40abc90b-a45b-413b-ad69-ded6077b0204.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_193881f5-33ef-439f-aced-99dd6c508043
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config7852537d-0e8c-437d-9f89-1a73bd26c063.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_30c55e9b-c4d2-4868-9d9a-a99973a137d6
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd361fd1f-8de0-4611-8501-b053c64acd71.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_416b86c6-9122-4b26-a22a-1bc87cf7a42b
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd62602ee-5f23-47b1-a993-2ae66cf41c8d.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0c359802-9e6a-4b3d-88b4-1d6f77d095b6
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1a025de4-d50b-4fd4-9cbb-ab4a9a4117e5.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_d52e5d53-2fa8-4db9-835f-941af67df4bf
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1c0231bb-7814-4edd-a4aa-ec0c202f5266.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c6990933-214e-414e-a06f-91991ff5fac6
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config20c1d574-a24e-4304-8daa-5db074b8e899.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_472c3b6f-5fb2-4fa8-897a-11af612973f2
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige8e00a5a-48d3-4377-b771-1b92a2eb38d5.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7b73833b-1215-4600-94a9-ec2e7ebbf06b
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd8010351-7677-428a-9e50-ec41add30294.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_af5a7d75-3808-403c-8699-9d22570ad941
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige501f3f8-46bf-4b8f-be71-54ac7f8d84e1.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_3b7e0fdb-4eff-4adf-a023-170bb58df9ba
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config40abc90b-a45b-413b-ad69-ded6077b0204.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b4be7141-7f8a-4f81-8529-b8e3f6a5363d
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config7852537d-0e8c-437d-9f89-1a73bd26c063.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e5d3f65f-98cc-4cf4-b4ca-46790e337d4b
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd62602ee-5f23-47b1-a993-2ae66cf41c8d.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_a78b5707-ea17-400e-ba2f-e6289fc1aeca
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd361fd1f-8de0-4611-8501-b053c64acd71.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_25f02f87-e072-4d5b-8eb6-ec1d44790133
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1a025de4-d50b-4fd4-9cbb-ab4a9a4117e5.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_993f8202-0bca-4b10-9d8e-a576491d8dd4
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1c0231bb-7814-4edd-a4aa-ec0c202f5266.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b5ef23b3-f251-4417-a5d0-fb7fb2b6f98e
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config20c1d574-a24e-4304-8daa-5db074b8e899.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_fb191ad8-1ffb-4743-b8bd-46e819ec4a0b
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige8e00a5a-48d3-4377-b771-1b92a2eb38d5.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_369ef93d-580f-460f-8b9a-3e0037678bb2
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd8010351-7677-428a-9e50-ec41add30294.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7ba8185d-ea7c-4e78-9da8-cfd041adae98
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config40abc90b-a45b-413b-ad69-ded6077b0204.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_4fc9a857-6917-4975-a8f2-8444044cea22
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige501f3f8-46bf-4b8f-be71-54ac7f8d84e1.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_22c17b97-9a48-499c-82ec-05333a571830
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config7852537d-0e8c-437d-9f89-1a73bd26c063.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_9357d9e3-58ec-46af-85cf-b098e69270b3
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd62602ee-5f23-47b1-a993-2ae66cf41c8d.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_2af689b1-e58e-44d6-9d23-18823d2b9622
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd361fd1f-8de0-4611-8501-b053c64acd71.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_abeeda7e-a388-4ec7-961f-d1ca569c143c
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1a025de4-d50b-4fd4-9cbb-ab4a9a4117e5.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f5013c16-261e-4f15-8ced-9481aa2153bc
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1c0231bb-7814-4edd-a4aa-ec0c202f5266.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_bcf6f894-2bd6-4744-893d-6f0e41a587c5
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config20c1d574-a24e-4304-8daa-5db074b8e899.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_bdd20310-f755-46bc-97d1-49620dcb16dc
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd8010351-7677-428a-9e50-ec41add30294.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_45c67ac5-3db8-4156-b2a8-65675561289d
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige8e00a5a-48d3-4377-b771-1b92a2eb38d5.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_d55755b6-3857-41b4-9240-1b137ef556c2
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config40abc90b-a45b-413b-ad69-ded6077b0204.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0cddf7fb-4135-41a2-9cb5-c255338ec59f
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige501f3f8-46bf-4b8f-be71-54ac7f8d84e1.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_762bbc56-3afc-43d6-9e1e-d18a2dcf704e
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config7852537d-0e8c-437d-9f89-1a73bd26c063.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b384bd8f-abf5-4d62-a881-193592a629a9
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1c0231bb-7814-4edd-a4aa-ec0c202f5266.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c0f26be0-febe-4d84-af3a-4d2a4df3a1cf
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd62602ee-5f23-47b1-a993-2ae66cf41c8d.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_aabafcde-02ed-4262-ac2d-b8cab301ff80
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1a025de4-d50b-4fd4-9cbb-ab4a9a4117e5.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_99035490-56ec-4c89-b83f-4b99dd1eb586
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config20c1d574-a24e-4304-8daa-5db074b8e899.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_ccf63e91-124d-41a6-963c-207947fac99b
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd8010351-7677-428a-9e50-ec41add30294.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_a99274fb-2b87-4fcd-ab27-c9fd22ab265c
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd361fd1f-8de0-4611-8501-b053c64acd71.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f0862969-a99e-4388-81e7-2ebbc852bb7b
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige501f3f8-46bf-4b8f-be71-54ac7f8d84e1.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_45f03ca8-7c4c-4eb6-b55d-f8674032d1b7
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config40abc90b-a45b-413b-ad69-ded6077b0204.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b310df0a-da79-4d91-9a1f-e8d1bc24457a
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige8e00a5a-48d3-4377-b771-1b92a2eb38d5.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_2fcc6a49-be5f-4137-b7c0-ebc14afe8fb1
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config7852537d-0e8c-437d-9f89-1a73bd26c063.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_fe072f0f-bc52-4580-80df-837c4f789d74
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1c0231bb-7814-4edd-a4aa-ec0c202f5266.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_041a5ac6-77fe-46ba-acb6-0075c1597a59
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd62602ee-5f23-47b1-a993-2ae66cf41c8d.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_fb4e6fd4-a948-4898-95b9-7c7b7a7b28ab
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config1a025de4-d50b-4fd4-9cbb-ab4a9a4117e5.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_059e1730-251e-48a6-932b-16b85da624d2
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config20c1d574-a24e-4304-8daa-5db074b8e899.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_194912a6-79a4-4558-9c62-c02cc743ac5c
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd8010351-7677-428a-9e50-ec41add30294.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_658d8511-b9a3-4035-ac18-615b3c5efae1
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd361fd1f-8de0-4611-8501-b053c64acd71.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8ab21dfb-8897-441e-9dab-4fd3cb9f39f8
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige501f3f8-46bf-4b8f-be71-54ac7f8d84e1.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8893865b-1415-4c4b-acb4-59986580763e
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config40abc90b-a45b-413b-ad69-ded6077b0204.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_45fead51-baac-4af3-b17d-6820fc4d39f4
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige8e00a5a-48d3-4377-b771-1b92a2eb38d5.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_40944299-ba2f-4809-bb28-1497c7a7b60f
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419560)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419560)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419560)[0m ==============================
+[2m[36m(RolloutWorker pid=1419560)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6da45b25-609e-4706-bf5e-053676f6c734
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419561)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419561)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419561)[0m ==============================
+[2m[36m(RolloutWorker pid=1419561)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0655582a-5b3a-45c4-9163-7cf532652e37
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419577)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419577)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419577)[0m ==============================
+[2m[36m(RolloutWorker pid=1419577)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_dac213dc-fd75-410c-984f-4abe813340f4
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419566)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419566)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419566)[0m ==============================
+[2m[36m(RolloutWorker pid=1419566)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b3b41343-7a43-4013-a4f7-9d333db52ad7
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419574)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419574)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419574)[0m ==============================
+[2m[36m(RolloutWorker pid=1419574)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f2687877-92e1-4e36-a284-2ea95a915013
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419570)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419570)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419570)[0m ==============================
+[2m[36m(RolloutWorker pid=1419570)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e54808ac-01d6-4225-b0fc-37b345fb4414
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419568)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419568)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419568)[0m ==============================
+[2m[36m(RolloutWorker pid=1419568)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_ab1b1361-936b-4463-8231-7bb4c3672abe
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419564)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419564)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419564)[0m ==============================
+[2m[36m(RolloutWorker pid=1419564)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0c57a019-a7d9-46aa-b3da-a6329fe79abd
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419562)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419562)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419562)[0m ==============================
+[2m[36m(RolloutWorker pid=1419562)[0m Looking at cgra  4
+Evaluation done
+Starting iteration  10
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_86f5546d-db53-4ff6-bcdd-1d45bd613d7c
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419572)[0m Computed IIs  [17, 17, 39, 100000, 17, 18, 100000, 17, 18]
+[2m[36m(RolloutWorker pid=1419572)[0m Total reward was:  -221.0
+[2m[36m(RolloutWorker pid=1419572)[0m ==============================
+[2m[36m(RolloutWorker pid=1419572)[0m Looking at cgra  4
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  nan
+iteration done
+Starting iteration  11
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  nan
+iteration done
+Starting iteration  12
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  nan
+iteration done
+Starting iteration  13
+Episode reward mean is  nan
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  nan
+iteration done
+Starting iteration  14
+[2m[36m(RolloutWorker pid=1419096)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419096)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config10f196db-b847-44fd-8786-61962df5d4c7.json
+[2m[36m(RolloutWorker pid=1419097)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419097)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige69c143b-1f82-4afe-b8de-cc1872056d2b.json
+[2m[36m(RolloutWorker pid=1419098)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419098)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa81527be-497a-4078-9874-820e4717be64.json
+[2m[36m(RolloutWorker pid=1419100)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419100)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config47bac882-77ee-4341-a1ef-169e88cd9372.json
+[2m[36m(RolloutWorker pid=1419103)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419103)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd153fe5b-33e6-4d39-bd43-ac8f5cdca3fd.json
+[2m[36m(RolloutWorker pid=1419102)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419102)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configce4f95c9-ffd9-4ab5-861f-009be68078f0.json
+[2m[36m(RolloutWorker pid=1419108)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419108)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config3bf3f3c9-2cd7-497e-b1af-b10c0daf035e.json
+[2m[36m(RolloutWorker pid=1419112)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419112)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config827524c9-3491-4be5-8c3d-85fbfb928f2b.json
+[2m[36m(RolloutWorker pid=1419110)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419110)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config8598ad22-4bfd-44c3-a00d-222a6ca4957c.json
+[2m[36m(RolloutWorker pid=1419106)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419106)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config48af6234-2920-4e1a-857d-6d945974c8d7.json
+[2m[36m(RolloutWorker pid=1419096)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e54f4b51-64fe-48c8-924b-9d952e6e67aa
+[2m[36m(RolloutWorker pid=1419096)[0m IIs found was 11
+[2m[36m(RolloutWorker pid=1419096)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419096)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config10f196db-b847-44fd-8786-61962df5d4c7.json
+[2m[36m(RolloutWorker pid=1419100)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b943bcfc-56c7-4c55-958e-4b1a91b38828
+[2m[36m(RolloutWorker pid=1419100)[0m IIs found was 11
+[2m[36m(RolloutWorker pid=1419100)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419100)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config47bac882-77ee-4341-a1ef-169e88cd9372.json
+[2m[36m(RolloutWorker pid=1419108)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b3b6147a-297f-4e1d-8c74-e04ae94718b7
+[2m[36m(RolloutWorker pid=1419108)[0m IIs found was 12
+[2m[36m(RolloutWorker pid=1419108)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419108)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config3bf3f3c9-2cd7-497e-b1af-b10c0daf035e.json
+[2m[36m(RolloutWorker pid=1419103)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_4f28ed87-d4cb-4250-88c2-b224dd545f66
+[2m[36m(RolloutWorker pid=1419103)[0m IIs found was 14
+[2m[36m(RolloutWorker pid=1419103)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419103)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd153fe5b-33e6-4d39-bd43-ac8f5cdca3fd.json
+[2m[36m(RolloutWorker pid=1419102)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_48c04d8c-22df-4e23-b323-103c0269620c
+[2m[36m(RolloutWorker pid=1419102)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419102)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419102)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configce4f95c9-ffd9-4ab5-861f-009be68078f0.json
+[2m[36m(RolloutWorker pid=1419110)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_2b85b71c-17d2-4f09-960a-df4e5ffa692c
+[2m[36m(RolloutWorker pid=1419110)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419110)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419110)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config8598ad22-4bfd-44c3-a00d-222a6ca4957c.json
+[2m[36m(RolloutWorker pid=1419098)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8b02827e-af35-436a-9ce5-68a55ff8c658
+[2m[36m(RolloutWorker pid=1419098)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419098)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419098)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa81527be-497a-4078-9874-820e4717be64.json
+[2m[36m(RolloutWorker pid=1419097)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6e4e0109-4cc1-4bd0-baf5-190d4912f5c6
+[2m[36m(RolloutWorker pid=1419097)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419097)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419097)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige69c143b-1f82-4afe-b8de-cc1872056d2b.json
+[2m[36m(RolloutWorker pid=1419112)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b0351988-426f-4f27-a30c-9f6ef8f92be3
+[2m[36m(RolloutWorker pid=1419112)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419112)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419112)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config827524c9-3491-4be5-8c3d-85fbfb928f2b.json
+[2m[36m(RolloutWorker pid=1419106)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6350b363-d32b-4056-a86a-2e944921442e
+[2m[36m(RolloutWorker pid=1419106)[0m IIs found was 20
+[2m[36m(RolloutWorker pid=1419106)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419106)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config48af6234-2920-4e1a-857d-6d945974c8d7.json
+[2m[36m(RolloutWorker pid=1419096)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7922b042-ae50-4b81-81e5-a11ba4d976c3
+[2m[36m(RolloutWorker pid=1419096)[0m IIs found was 15
+[2m[36m(RolloutWorker pid=1419096)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419096)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config10f196db-b847-44fd-8786-61962df5d4c7.json
+[2m[36m(RolloutWorker pid=1419100)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b6cd0c7b-f99d-4a1f-a1c7-244986292c3f
+[2m[36m(RolloutWorker pid=1419100)[0m IIs found was 15
+[2m[36m(RolloutWorker pid=1419100)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419100)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config47bac882-77ee-4341-a1ef-169e88cd9372.json
+[2m[36m(RolloutWorker pid=1419108)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_4f4b13d3-fc36-4ede-8e69-a604c801fd56
+[2m[36m(RolloutWorker pid=1419108)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419108)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419108)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config3bf3f3c9-2cd7-497e-b1af-b10c0daf035e.json
+[2m[36m(RolloutWorker pid=1419103)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b32f4477-7f45-4d17-8f73-a6ad206e89d3
+[2m[36m(RolloutWorker pid=1419103)[0m IIs found was 15
+[2m[36m(RolloutWorker pid=1419103)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419103)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd153fe5b-33e6-4d39-bd43-ac8f5cdca3fd.json
+[2m[36m(RolloutWorker pid=1419102)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_9c7634ec-ded7-4bb3-9cce-84353f116913
+[2m[36m(RolloutWorker pid=1419102)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419102)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419102)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configce4f95c9-ffd9-4ab5-861f-009be68078f0.json
+[2m[36m(RolloutWorker pid=1419110)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_546318b2-b1dd-4a7d-9d54-76543542aa14
+[2m[36m(RolloutWorker pid=1419110)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419110)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419110)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config8598ad22-4bfd-44c3-a00d-222a6ca4957c.json
+[2m[36m(RolloutWorker pid=1419098)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_32d1de4c-c777-4e22-9a59-3fd6d0cc96fe
+[2m[36m(RolloutWorker pid=1419098)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419098)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419098)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa81527be-497a-4078-9874-820e4717be64.json
+[2m[36m(RolloutWorker pid=1419097)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_beb0aa3b-4e8a-492c-84fa-12553219e4ea
+[2m[36m(RolloutWorker pid=1419097)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419097)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419097)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige69c143b-1f82-4afe-b8de-cc1872056d2b.json
+[2m[36m(RolloutWorker pid=1419112)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_08d52523-a2b0-43ba-bdaa-31887e6873f1
+[2m[36m(RolloutWorker pid=1419112)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419112)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419112)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config827524c9-3491-4be5-8c3d-85fbfb928f2b.json
+[2m[36m(RolloutWorker pid=1419106)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_aaa33a21-0c30-479b-ae65-884a6f356388
+[2m[36m(RolloutWorker pid=1419106)[0m IIs found was 20
+[2m[36m(RolloutWorker pid=1419106)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419106)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config48af6234-2920-4e1a-857d-6d945974c8d7.json
+[2m[36m(RolloutWorker pid=1419102)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_3e74a45b-4d36-49ec-9c53-7a1b657b63a1
+[2m[36m(RolloutWorker pid=1419102)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419102)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419102)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configce4f95c9-ffd9-4ab5-861f-009be68078f0.json
+[2m[36m(RolloutWorker pid=1419096)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b039ecaa-2401-45d8-9cd1-aac3b005e50a
+[2m[36m(RolloutWorker pid=1419096)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419096)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419096)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config10f196db-b847-44fd-8786-61962df5d4c7.json
+[2m[36m(RolloutWorker pid=1419110)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_60220610-910b-4b69-875f-7e23303c45ab
+[2m[36m(RolloutWorker pid=1419110)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419110)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419110)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config8598ad22-4bfd-44c3-a00d-222a6ca4957c.json
+[2m[36m(RolloutWorker pid=1419100)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_051e13a4-b9c6-4210-b75f-c5c35dd864cc
+[2m[36m(RolloutWorker pid=1419100)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419100)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419100)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config47bac882-77ee-4341-a1ef-169e88cd9372.json
+[2m[36m(RolloutWorker pid=1419097)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_1b6fc71a-33bb-4c24-8c06-507dbf92887c
+[2m[36m(RolloutWorker pid=1419097)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419097)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419097)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige69c143b-1f82-4afe-b8de-cc1872056d2b.json
+[2m[36m(RolloutWorker pid=1419103)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_2ec5c84c-8fea-492a-8ac7-a4fc0b88693e
+[2m[36m(RolloutWorker pid=1419103)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419103)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419103)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd153fe5b-33e6-4d39-bd43-ac8f5cdca3fd.json
+[2m[36m(RolloutWorker pid=1419098)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_641e0cc5-d242-40e7-b6b1-cfec22135759
+[2m[36m(RolloutWorker pid=1419098)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419098)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419098)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa81527be-497a-4078-9874-820e4717be64.json
+[2m[36m(RolloutWorker pid=1419106)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_2e8b5c34-8755-4e1a-985c-faafc79f0212
+[2m[36m(RolloutWorker pid=1419106)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419106)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419106)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config48af6234-2920-4e1a-857d-6d945974c8d7.json
+[2m[36m(RolloutWorker pid=1419112)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_1fd3e5c2-5fff-4b92-8392-3f94378d1156
+[2m[36m(RolloutWorker pid=1419112)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419112)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419112)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config827524c9-3491-4be5-8c3d-85fbfb928f2b.json
+[2m[36m(RolloutWorker pid=1419108)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_1dc79587-69fa-4cb3-ad6a-190175ddf7cb
+[2m[36m(RolloutWorker pid=1419108)[0m IIs found was 42
+[2m[36m(RolloutWorker pid=1419108)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419108)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config3bf3f3c9-2cd7-497e-b1af-b10c0daf035e.json
+[2m[36m(RolloutWorker pid=1419102)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_34ac558d-ba66-4d42-83c8-1c9264efe8ce
+[2m[36m(RolloutWorker pid=1419102)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419102)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419102)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configce4f95c9-ffd9-4ab5-861f-009be68078f0.json
+[2m[36m(RolloutWorker pid=1419096)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_20910c02-8ba9-432a-bc19-b7e184162825
+[2m[36m(RolloutWorker pid=1419096)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419096)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419096)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config10f196db-b847-44fd-8786-61962df5d4c7.json
+[2m[36m(RolloutWorker pid=1419110)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e42877bc-09b3-4548-a2b8-889470fcf9d1
+[2m[36m(RolloutWorker pid=1419110)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419110)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419110)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config8598ad22-4bfd-44c3-a00d-222a6ca4957c.json
+[2m[36m(RolloutWorker pid=1419100)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_11fd79de-a6e3-4a25-8748-289247cc62dd
+[2m[36m(RolloutWorker pid=1419100)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419100)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419100)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config47bac882-77ee-4341-a1ef-169e88cd9372.json
+[2m[36m(RolloutWorker pid=1419097)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f572add4-9b69-4ffa-9363-59e171ce8cd1
+[2m[36m(RolloutWorker pid=1419097)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419097)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419097)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige69c143b-1f82-4afe-b8de-cc1872056d2b.json
+[2m[36m(RolloutWorker pid=1419103)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e3c53c50-8c2c-4975-9505-11e6804ff0bd
+[2m[36m(RolloutWorker pid=1419103)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419103)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419103)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd153fe5b-33e6-4d39-bd43-ac8f5cdca3fd.json
+[2m[36m(RolloutWorker pid=1419098)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_35dcf11d-32cb-47ce-b322-fea139534d9d
+[2m[36m(RolloutWorker pid=1419098)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419098)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419098)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa81527be-497a-4078-9874-820e4717be64.json
+[2m[36m(RolloutWorker pid=1419106)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_72170bea-135e-49da-9e85-327cef5c80d9
+[2m[36m(RolloutWorker pid=1419106)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419106)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419106)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config48af6234-2920-4e1a-857d-6d945974c8d7.json
+[2m[36m(RolloutWorker pid=1419112)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f90c2f8b-6d9e-41f7-99d2-b23c81b5598a
+[2m[36m(RolloutWorker pid=1419112)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419112)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419112)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config827524c9-3491-4be5-8c3d-85fbfb928f2b.json
+[2m[36m(RolloutWorker pid=1419108)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_1d4058fc-0dde-4a7c-b8e4-41928ebe17eb
+[2m[36m(RolloutWorker pid=1419108)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419108)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419108)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config3bf3f3c9-2cd7-497e-b1af-b10c0daf035e.json
+[2m[36m(RolloutWorker pid=1419102)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_84674b0b-5931-4353-96e8-4460dac566cb
+[2m[36m(RolloutWorker pid=1419102)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419102)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419102)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configce4f95c9-ffd9-4ab5-861f-009be68078f0.json
+[2m[36m(RolloutWorker pid=1419096)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c3c9da8a-3ef8-4d34-81a2-15824a6ea0cb
+[2m[36m(RolloutWorker pid=1419096)[0m IIs found was 14
+[2m[36m(RolloutWorker pid=1419096)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419096)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config10f196db-b847-44fd-8786-61962df5d4c7.json
+[2m[36m(RolloutWorker pid=1419103)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e85426bb-5cde-41f9-a65f-3341a85d95f0
+[2m[36m(RolloutWorker pid=1419103)[0m IIs found was 14
+[2m[36m(RolloutWorker pid=1419103)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419103)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd153fe5b-33e6-4d39-bd43-ac8f5cdca3fd.json
+[2m[36m(RolloutWorker pid=1419110)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8dece3cf-f267-459b-b3ba-48542b881cc1
+[2m[36m(RolloutWorker pid=1419110)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419110)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419110)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config8598ad22-4bfd-44c3-a00d-222a6ca4957c.json
+[2m[36m(RolloutWorker pid=1419100)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_56a6ac1c-372b-46d5-92b4-d934c36724ad
+[2m[36m(RolloutWorker pid=1419100)[0m IIs found was 14
+[2m[36m(RolloutWorker pid=1419100)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419100)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config47bac882-77ee-4341-a1ef-169e88cd9372.json
+[2m[36m(RolloutWorker pid=1419097)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_ad14a7d3-d361-4f63-940c-5dd9c0f0c056
+[2m[36m(RolloutWorker pid=1419097)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419097)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419097)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige69c143b-1f82-4afe-b8de-cc1872056d2b.json
+[2m[36m(RolloutWorker pid=1419098)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8564d1d0-7f4c-48cb-8172-788893213bc1
+[2m[36m(RolloutWorker pid=1419098)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419098)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419098)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa81527be-497a-4078-9874-820e4717be64.json
+[2m[36m(RolloutWorker pid=1419106)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_72cb02ce-82c2-40ec-af23-7ff2f749c6f9
+[2m[36m(RolloutWorker pid=1419106)[0m IIs found was 20
+[2m[36m(RolloutWorker pid=1419106)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419106)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config48af6234-2920-4e1a-857d-6d945974c8d7.json
+[2m[36m(RolloutWorker pid=1419112)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_df774cf9-65a7-4088-be9e-b5e3dbe309c0
+[2m[36m(RolloutWorker pid=1419112)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419112)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419112)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config827524c9-3491-4be5-8c3d-85fbfb928f2b.json
+[2m[36m(RolloutWorker pid=1419108)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_875e434c-f95f-4d9d-8f94-8a2bc12a1edf
+[2m[36m(RolloutWorker pid=1419108)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419108)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419108)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config3bf3f3c9-2cd7-497e-b1af-b10c0daf035e.json
+[2m[36m(RolloutWorker pid=1419096)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_dd64f0f8-0063-4141-b1ca-01d622b3534e
+[2m[36m(RolloutWorker pid=1419096)[0m IIs found was 15
+[2m[36m(RolloutWorker pid=1419096)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419096)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config10f196db-b847-44fd-8786-61962df5d4c7.json
+[2m[36m(RolloutWorker pid=1419102)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c4012e5e-93cf-43f3-af36-664fd884b6dd
+[2m[36m(RolloutWorker pid=1419102)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419102)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419102)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configce4f95c9-ffd9-4ab5-861f-009be68078f0.json
+[2m[36m(RolloutWorker pid=1419103)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_5b75ef51-b1ed-44ab-99ad-df10b8d59d8a
+[2m[36m(RolloutWorker pid=1419103)[0m IIs found was 15
+[2m[36m(RolloutWorker pid=1419103)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419103)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd153fe5b-33e6-4d39-bd43-ac8f5cdca3fd.json
+[2m[36m(RolloutWorker pid=1419100)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0bc0ccb0-de21-4079-90f1-bda2c73288a2
+[2m[36m(RolloutWorker pid=1419100)[0m IIs found was 15
+[2m[36m(RolloutWorker pid=1419100)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419100)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config47bac882-77ee-4341-a1ef-169e88cd9372.json
+[2m[36m(RolloutWorker pid=1419110)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b8a832a8-1a9d-4a41-a7d5-814c557a132d
+[2m[36m(RolloutWorker pid=1419110)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419110)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419110)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config8598ad22-4bfd-44c3-a00d-222a6ca4957c.json
+[2m[36m(RolloutWorker pid=1419097)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_681633a6-e0ae-4145-9ac2-6edf2928722b
+[2m[36m(RolloutWorker pid=1419097)[0m IIs found was 19
+[2m[36m(RolloutWorker pid=1419097)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419097)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige69c143b-1f82-4afe-b8de-cc1872056d2b.json
+[2m[36m(RolloutWorker pid=1419098)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_15efe750-d123-4d51-bde4-48cbcc9d549d
+[2m[36m(RolloutWorker pid=1419098)[0m IIs found was 19
+[2m[36m(RolloutWorker pid=1419098)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419098)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa81527be-497a-4078-9874-820e4717be64.json
+[2m[36m(RolloutWorker pid=1419112)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_a4865825-19e6-4282-aedd-6c3f006a0158
+[2m[36m(RolloutWorker pid=1419112)[0m IIs found was 19
+[2m[36m(RolloutWorker pid=1419112)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419112)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config827524c9-3491-4be5-8c3d-85fbfb928f2b.json
+[2m[36m(RolloutWorker pid=1419106)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_06e6ba2c-3d39-497e-878d-61fd6ac04d9d
+[2m[36m(RolloutWorker pid=1419106)[0m IIs found was 21
+[2m[36m(RolloutWorker pid=1419106)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419106)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config48af6234-2920-4e1a-857d-6d945974c8d7.json
+[2m[36m(RolloutWorker pid=1419108)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_50422124-68e3-40b7-bea8-94f59a42e763
+[2m[36m(RolloutWorker pid=1419108)[0m IIs found was 15
+[2m[36m(RolloutWorker pid=1419108)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419108)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config3bf3f3c9-2cd7-497e-b1af-b10c0daf035e.json
+[2m[36m(RolloutWorker pid=1419102)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8a44bc75-0e9d-496e-9e05-6a8d61e045cd
+[2m[36m(RolloutWorker pid=1419102)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419102)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419102)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configce4f95c9-ffd9-4ab5-861f-009be68078f0.json
+[2m[36m(RolloutWorker pid=1419103)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_31f16e4e-b15e-4911-b524-98217e870343
+[2m[36m(RolloutWorker pid=1419103)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419103)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419103)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd153fe5b-33e6-4d39-bd43-ac8f5cdca3fd.json
+[2m[36m(RolloutWorker pid=1419110)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_51bc588f-4736-4289-b24f-5efee6a97fe7
+[2m[36m(RolloutWorker pid=1419110)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419110)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419110)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config8598ad22-4bfd-44c3-a00d-222a6ca4957c.json
+[2m[36m(RolloutWorker pid=1419096)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_afc9951d-879c-4244-be05-170699310019
+[2m[36m(RolloutWorker pid=1419096)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419096)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419096)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config10f196db-b847-44fd-8786-61962df5d4c7.json
+[2m[36m(RolloutWorker pid=1419100)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_27abfa17-8404-4afa-a27e-d457dcaef178
+[2m[36m(RolloutWorker pid=1419100)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419100)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419100)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config47bac882-77ee-4341-a1ef-169e88cd9372.json
+[2m[36m(RolloutWorker pid=1419098)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_4345feca-d9ab-4e53-97b0-a5e032f8fc1c
+[2m[36m(RolloutWorker pid=1419098)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419098)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419098)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa81527be-497a-4078-9874-820e4717be64.json
+[2m[36m(RolloutWorker pid=1419097)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c9a1dd1c-aece-4617-bf29-28d380a79c6b
+[2m[36m(RolloutWorker pid=1419097)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419097)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419097)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige69c143b-1f82-4afe-b8de-cc1872056d2b.json
+[2m[36m(RolloutWorker pid=1419106)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_1b2e01da-17ec-4933-a877-f6801db714b3
+[2m[36m(RolloutWorker pid=1419106)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419106)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419106)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config48af6234-2920-4e1a-857d-6d945974c8d7.json
+[2m[36m(RolloutWorker pid=1419108)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_254ff96e-e2a2-49e8-94a6-0fd16893c05b
+[2m[36m(RolloutWorker pid=1419108)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419108)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419108)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config3bf3f3c9-2cd7-497e-b1af-b10c0daf035e.json
+[2m[36m(RolloutWorker pid=1419112)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c47bb953-2079-4df4-a8cc-a709f0d1536a
+[2m[36m(RolloutWorker pid=1419112)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419112)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419112)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config827524c9-3491-4be5-8c3d-85fbfb928f2b.json
+[2m[36m(RolloutWorker pid=1419102)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_58b94703-2b76-4473-82ae-e760bf8b12c0
+[2m[36m(RolloutWorker pid=1419102)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419102)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419102)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configce4f95c9-ffd9-4ab5-861f-009be68078f0.json
+[2m[36m(RolloutWorker pid=1419103)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c162a581-6398-4473-a400-c97136e7d371
+[2m[36m(RolloutWorker pid=1419103)[0m IIs found was 14
+[2m[36m(RolloutWorker pid=1419103)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419103)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configd153fe5b-33e6-4d39-bd43-ac8f5cdca3fd.json
+[2m[36m(RolloutWorker pid=1419110)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_d6434141-2d0f-4f77-91b5-e41d5b2b6e2f
+[2m[36m(RolloutWorker pid=1419110)[0m IIs found was 16
+[2m[36m(RolloutWorker pid=1419110)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419110)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config8598ad22-4bfd-44c3-a00d-222a6ca4957c.json
+[2m[36m(RolloutWorker pid=1419096)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_930b0490-e69b-49f9-8e74-4a8e076ab823
+[2m[36m(RolloutWorker pid=1419096)[0m IIs found was 11
+[2m[36m(RolloutWorker pid=1419096)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419096)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config10f196db-b847-44fd-8786-61962df5d4c7.json
+[2m[36m(RolloutWorker pid=1419100)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0c523fdb-9dd9-42a2-b830-e5c57f471896
+[2m[36m(RolloutWorker pid=1419100)[0m IIs found was 11
+[2m[36m(RolloutWorker pid=1419100)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419100)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config47bac882-77ee-4341-a1ef-169e88cd9372.json
+[2m[36m(RolloutWorker pid=1419098)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_85da5a2b-8aaa-4d41-bda8-8d5d20858916
+[2m[36m(RolloutWorker pid=1419098)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419098)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419098)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa81527be-497a-4078-9874-820e4717be64.json
+[2m[36m(RolloutWorker pid=1419108)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f4cc04d8-3c5e-4957-866e-491e4638e809
+[2m[36m(RolloutWorker pid=1419108)[0m IIs found was 12
+[2m[36m(RolloutWorker pid=1419108)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419108)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config3bf3f3c9-2cd7-497e-b1af-b10c0daf035e.json
+[2m[36m(RolloutWorker pid=1419097)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b4d0707c-0b13-4b4d-83d4-65c9339a1255
+[2m[36m(RolloutWorker pid=1419097)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419097)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419097)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_confige69c143b-1f82-4afe-b8de-cc1872056d2b.json
+[2m[36m(RolloutWorker pid=1419106)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_40cfe579-f0c8-4050-a867-dcf6b7ed35d1
+[2m[36m(RolloutWorker pid=1419106)[0m IIs found was 20
+[2m[36m(RolloutWorker pid=1419106)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419106)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config48af6234-2920-4e1a-857d-6d945974c8d7.json
+[2m[36m(RolloutWorker pid=1419112)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_d086935d-d3ba-4878-90f0-d6a242ed9487
+[2m[36m(RolloutWorker pid=1419112)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419112)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419112)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config827524c9-3491-4be5-8c3d-85fbfb928f2b.json
+[2m[36m(RolloutWorker pid=1419102)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f8466daa-d934-49b3-9506-36e287e1f88e
+[2m[36m(RolloutWorker pid=1419102)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419102)[0m Computed IIs  [16, 16, 38, 100000, 16, 17, 100000, 16, 17]
+[2m[36m(RolloutWorker pid=1419102)[0m Total reward was:  -212.0
+[2m[36m(RolloutWorker pid=1419102)[0m ==============================
+[2m[36m(RolloutWorker pid=1419102)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419103)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_17b563e1-874f-491e-98ce-a70a7e8e4278
+[2m[36m(RolloutWorker pid=1419103)[0m IIs found was 15
+[2m[36m(RolloutWorker pid=1419103)[0m Computed IIs  [14, 15, 38, 100000, 14, 15, 100000, 14, 15]
+[2m[36m(RolloutWorker pid=1419103)[0m Total reward was:  -201.0
+[2m[36m(RolloutWorker pid=1419103)[0m ==============================
+[2m[36m(RolloutWorker pid=1419103)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419110)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_bb3c84ed-5436-4a9e-8c72-704450eb5bef
+[2m[36m(RolloutWorker pid=1419110)[0m IIs found was 17
+[2m[36m(RolloutWorker pid=1419110)[0m Computed IIs  [16, 16, 38, 100000, 16, 17, 100000, 16, 17]
+[2m[36m(RolloutWorker pid=1419110)[0m Total reward was:  -212.0
+[2m[36m(RolloutWorker pid=1419110)[0m ==============================
+[2m[36m(RolloutWorker pid=1419110)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419096)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_709c6efb-c89a-46ff-9cfc-330c40283545
+[2m[36m(RolloutWorker pid=1419096)[0m IIs found was 11
+[2m[36m(RolloutWorker pid=1419096)[0m Computed IIs  [11, 15, 38, 100000, 14, 15, 100000, 11, 11]
+[2m[36m(RolloutWorker pid=1419096)[0m Total reward was:  -191.0
+[2m[36m(RolloutWorker pid=1419096)[0m ==============================
+[2m[36m(RolloutWorker pid=1419096)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419100)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_19c9ac4e-f8fa-4c33-8437-cdcd6150e486
+[2m[36m(RolloutWorker pid=1419100)[0m IIs found was 11
+[2m[36m(RolloutWorker pid=1419100)[0m Computed IIs  [11, 15, 38, 100000, 14, 15, 100000, 11, 11]
+[2m[36m(RolloutWorker pid=1419100)[0m Total reward was:  -191.0
+[2m[36m(RolloutWorker pid=1419100)[0m ==============================
+[2m[36m(RolloutWorker pid=1419100)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419098)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e66da8da-04fd-4b76-bdb7-e0950837a9e5
+[2m[36m(RolloutWorker pid=1419098)[0m IIs found was 19
+[2m[36m(RolloutWorker pid=1419098)[0m Computed IIs  [18, 18, 38, 100000, 18, 19, 100000, 18, 19]
+[2m[36m(RolloutWorker pid=1419098)[0m Total reward was:  -224.0
+[2m[36m(RolloutWorker pid=1419098)[0m ==============================
+[2m[36m(RolloutWorker pid=1419098)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419108)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f8c67cc1-fe99-4b37-9fe3-8018dfa70e41
+[2m[36m(RolloutWorker pid=1419108)[0m IIs found was 13
+[2m[36m(RolloutWorker pid=1419108)[0m Computed IIs  [12, 16, 42, 100000, 16, 15, 100000, 12, 13]
+[2m[36m(RolloutWorker pid=1419108)[0m Total reward was:  -210.0
+[2m[36m(RolloutWorker pid=1419108)[0m ==============================
+[2m[36m(RolloutWorker pid=1419108)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419097)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f16c1227-e41e-45ec-836a-390ccbeb7f92
+[2m[36m(RolloutWorker pid=1419097)[0m IIs found was 19
+[2m[36m(RolloutWorker pid=1419097)[0m Computed IIs  [18, 18, 38, 100000, 18, 19, 100000, 18, 19]
+[2m[36m(RolloutWorker pid=1419097)[0m Total reward was:  -224.0
+[2m[36m(RolloutWorker pid=1419097)[0m ==============================
+[2m[36m(RolloutWorker pid=1419097)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419112)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_ba83d715-77d1-402c-8c05-a7b0fa3b1253
+[2m[36m(RolloutWorker pid=1419112)[0m IIs found was 19
+[2m[36m(RolloutWorker pid=1419112)[0m Computed IIs  [18, 18, 38, 100000, 18, 19, 100000, 18, 19]
+[2m[36m(RolloutWorker pid=1419112)[0m Total reward was:  -224.0
+[2m[36m(RolloutWorker pid=1419112)[0m ==============================
+[2m[36m(RolloutWorker pid=1419112)[0m Looking at cgra  4
+[2m[36m(RolloutWorker pid=1419106)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_bb005662-4c2d-4590-afc4-c9c6e35da805
+[2m[36m(RolloutWorker pid=1419106)[0m IIs found was 21
+[2m[36m(RolloutWorker pid=1419106)[0m Computed IIs  [20, 20, 38, 100000, 20, 21, 100000, 20, 21]
+[2m[36m(RolloutWorker pid=1419106)[0m Total reward was:  -236.0
+[2m[36m(RolloutWorker pid=1419106)[0m ==============================
+[2m[36m(RolloutWorker pid=1419106)[0m Looking at cgra  4
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  nan
+iteration done
+Starting iteration  15
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  nan
+iteration done
+Starting iteration  16
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  nan
+iteration done
+Starting iteration  17
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  nan
+iteration done
+Starting iteration  18
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  nan
+iteration done
+Starting iteration  19
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  -212.5
+iteration done
+Saved checkpoint  /private/home/jacksonwoodruff/ray_results/PPOTrainer_PlacementEnv_2022-11-10_03-47-088ayeu343/checkpoint_000020/checkpoint-20
+Running evaluation
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config06d116ac-8267-48b8-90ae-7401a97f5d30.json
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa7e6dc09-d620-4a17-8cee-c165d541b200.json
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config4b12188a-92f2-401a-b322-96ed2d763424.json
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa015debf-9840-45b1-9a66-e95f23cbe156.json
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config07afb0ba-07dc-41cc-b9c5-a4676129bcde.json
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa83c60c3-e017-4229-9919-cae3a1d9942c.json
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config31306ec3-573a-49c2-b42f-ed90b420bf68.json
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf0757146-c31d-4b53-b70f-c20818ef4d9f.json
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf4ff88d0-a40d-422b-b9d1-dc3092df5839.json
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_125.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configc5a5e220-af29-46ca-8532-0f3b30c54171.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b3a7e0d9-32c9-46a6-ac98-764cbe965ca6
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config4b12188a-92f2-401a-b322-96ed2d763424.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_34c64005-f955-4103-86d0-f669e3c95207
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa83c60c3-e017-4229-9919-cae3a1d9942c.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6d67b203-17aa-4625-b10f-59bbe0ed0150
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf4ff88d0-a40d-422b-b9d1-dc3092df5839.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_92eff628-12c8-4f42-8d44-f04a07c5da40
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa7e6dc09-d620-4a17-8cee-c165d541b200.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_5e290d37-c472-430c-b040-cf64dce7b2ee
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config31306ec3-573a-49c2-b42f-ed90b420bf68.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7c69ab23-2861-4ac5-b355-edc63d0ed331
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf0757146-c31d-4b53-b70f-c20818ef4d9f.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f98cfaae-6d58-49f7-bc47-7131fdb46045
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configc5a5e220-af29-46ca-8532-0f3b30c54171.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e66933a9-09b2-44ba-9e47-422f7039d14e
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config06d116ac-8267-48b8-90ae-7401a97f5d30.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_3baf1132-9f0e-44e9-b857-5ead36c485c1
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa015debf-9840-45b1-9a66-e95f23cbe156.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_2a02b6a3-265d-4e9b-82e4-6567a873494d
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_126.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config07afb0ba-07dc-41cc-b9c5-a4676129bcde.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_dd5cfb28-b713-4508-8da8-599ce43bd1eb
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config4b12188a-92f2-401a-b322-96ed2d763424.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_300d47de-7e15-43cf-acb2-201cd19e3d3a
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa83c60c3-e017-4229-9919-cae3a1d9942c.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b8dec9bb-7831-423d-9708-125cace296a8
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf0757146-c31d-4b53-b70f-c20818ef4d9f.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_37202b4f-01ac-4b93-92e2-f17272d94aa3
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf4ff88d0-a40d-422b-b9d1-dc3092df5839.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_a555bfed-0704-429e-8460-fe3cc0e8911d
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configc5a5e220-af29-46ca-8532-0f3b30c54171.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_cbf6b5e4-8aad-4c5f-bd9f-87257091e5c7
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config06d116ac-8267-48b8-90ae-7401a97f5d30.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f317ac19-675b-40a5-9122-9a592f32abb6
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa7e6dc09-d620-4a17-8cee-c165d541b200.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e5a32362-1119-4b1b-8977-df25833c14a2
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config07afb0ba-07dc-41cc-b9c5-a4676129bcde.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f9b341ba-19ff-4bff-b6d0-f6e2f6d5636d
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa015debf-9840-45b1-9a66-e95f23cbe156.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c8513860-de57-4d9e-ac91-cda679f0a00f
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_127.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config31306ec3-573a-49c2-b42f-ed90b420bf68.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_5907e54a-a8b4-4acc-bb36-573a08d70182
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf0757146-c31d-4b53-b70f-c20818ef4d9f.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0b96aa4e-3246-4a41-96e9-70d28631ee61
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config4b12188a-92f2-401a-b322-96ed2d763424.json
+[2m[36m(RolloutWorker pid=1419562)[0m 
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8ddd5ecc-7570-4a73-b5d6-31063b1eb903
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config06d116ac-8267-48b8-90ae-7401a97f5d30.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_17dc2ce9-3863-4e46-a393-f76cc8d27c85
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa015debf-9840-45b1-9a66-e95f23cbe156.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_a1e86adf-94fa-45b7-962a-097ff5f619b7
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config31306ec3-573a-49c2-b42f-ed90b420bf68.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f4b6e074-78dc-491c-8871-3094fc493679
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf4ff88d0-a40d-422b-b9d1-dc3092df5839.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f0b964ca-d77a-4291-a7af-5c78085b484d
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config07afb0ba-07dc-41cc-b9c5-a4676129bcde.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8fa08750-9d6c-488e-ae4e-c35450b664bd
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa7e6dc09-d620-4a17-8cee-c165d541b200.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_88c1bfa5-c7ed-49cb-89cc-a984ed0e3f01
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa83c60c3-e017-4229-9919-cae3a1d9942c.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_b5b0f83d-0ae6-485b-a8cc-03c89a04f066
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 38
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_12.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configc5a5e220-af29-46ca-8532-0f3b30c54171.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6b32b409-c3b7-4f7e-8112-e89dec794fb0
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf0757146-c31d-4b53-b70f-c20818ef4d9f.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_3a491825-fbe0-4e61-a299-0a4901e16183
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config4b12188a-92f2-401a-b322-96ed2d763424.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c62d13db-98da-4ebe-8da4-c68d89b10f76
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config06d116ac-8267-48b8-90ae-7401a97f5d30.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_4de00864-55df-45bb-940c-3c09e93ce3a2
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa015debf-9840-45b1-9a66-e95f23cbe156.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6cf45d8d-262c-46a2-b3c7-123ab95f2cc9
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config31306ec3-573a-49c2-b42f-ed90b420bf68.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_3e17f7f1-5afb-4f69-acb4-b617a31f1d6a
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf4ff88d0-a40d-422b-b9d1-dc3092df5839.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_5235ef33-070e-431d-987c-bc9636f4f5b8
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config07afb0ba-07dc-41cc-b9c5-a4676129bcde.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_19b12fd6-4538-4499-84d6-1f456bb4d503
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa7e6dc09-d620-4a17-8cee-c165d541b200.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_cde135c3-96ab-4226-b2a0-71ef2f50449f
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa83c60c3-e017-4229-9919-cae3a1d9942c.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_83f76bf3-df24-4b65-a1a5-015bc094901d
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_333.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configc5a5e220-af29-46ca-8532-0f3b30c54171.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6a498f27-8a6e-448a-82f8-31fd5a560bc3
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf0757146-c31d-4b53-b70f-c20818ef4d9f.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_2da4c954-5960-4361-b2df-7c5d265cab98
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config4b12188a-92f2-401a-b322-96ed2d763424.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6e70445a-92ca-4db5-be84-101777d0311d
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config06d116ac-8267-48b8-90ae-7401a97f5d30.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_6245ea5a-d9aa-466c-8a8d-af71aaa739c6
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa015debf-9840-45b1-9a66-e95f23cbe156.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f907947e-ebb4-4f43-a003-647c289fe246
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config31306ec3-573a-49c2-b42f-ed90b420bf68.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_134179d9-59f5-4b19-9fd3-d4dcf5b20f4e
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf4ff88d0-a40d-422b-b9d1-dc3092df5839.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0e222e95-9814-4c84-8f5b-661cbc5da73e
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config07afb0ba-07dc-41cc-b9c5-a4676129bcde.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_092513b6-2c15-4d9e-b2cc-144e0a2d1d78
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa7e6dc09-d620-4a17-8cee-c165d541b200.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_9e11356e-fe15-4f1a-88f7-b4cbe8171ce6
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa83c60c3-e017-4229-9919-cae3a1d9942c.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0fe944fc-346b-483f-ae5c-9ae04c63dde4
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_660.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configc5a5e220-af29-46ca-8532-0f3b30c54171.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_beebd73a-1615-4dcc-b132-6ed88c7edd95
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf0757146-c31d-4b53-b70f-c20818ef4d9f.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_d10d4343-8881-4db9-a301-a96edd376b6f
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config06d116ac-8267-48b8-90ae-7401a97f5d30.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_f18375ba-02c1-4762-a527-3046fbb628ad
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config4b12188a-92f2-401a-b322-96ed2d763424.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_33d436d7-6cc9-4eef-9944-8ff499f11d33
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa015debf-9840-45b1-9a66-e95f23cbe156.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7d9880dd-8bab-49a7-a4d0-48f11c729709
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config31306ec3-573a-49c2-b42f-ed90b420bf68.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_a5dc7c3b-7077-479e-8534-cd46e6412ab5
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf4ff88d0-a40d-422b-b9d1-dc3092df5839.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0e94514b-efcc-4b7a-8d21-96e898a149bb
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config07afb0ba-07dc-41cc-b9c5-a4676129bcde.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_dda16ec2-3136-4c86-9415-acae1b42d2fc
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa7e6dc09-d620-4a17-8cee-c165d541b200.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7dc04ede-cc10-40fb-9bec-dd25b10a3632
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa83c60c3-e017-4229-9919-cae3a1d9942c.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_8c957da3-7315-4611-badd-f2eb46d94e7c
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_661.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configc5a5e220-af29-46ca-8532-0f3b30c54171.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_db8acc1f-d87d-429e-9aa5-d7dac1ae18d5
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config06d116ac-8267-48b8-90ae-7401a97f5d30.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_9d40d312-0e3b-42b4-ae84-ab0f544c3f71
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config4b12188a-92f2-401a-b322-96ed2d763424.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_d51b09e8-515c-474b-a92f-e33d478a30c6
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa015debf-9840-45b1-9a66-e95f23cbe156.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_fac873e1-6efb-4650-9dfd-90046f58a335
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config31306ec3-573a-49c2-b42f-ed90b420bf68.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_e5d4ab18-e770-46be-82a9-b96acb17305b
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf0757146-c31d-4b53-b70f-c20818ef4d9f.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_32b562b1-2b1c-4398-9416-fd7fde1e0f92
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config07afb0ba-07dc-41cc-b9c5-a4676129bcde.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_de8b0dbd-b78f-43e1-9fe7-617ffd846d73
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf4ff88d0-a40d-422b-b9d1-dc3092df5839.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_633941b2-5ec4-4882-b527-abdba482628f
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configc5a5e220-af29-46ca-8532-0f3b30c54171.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_751b5a59-d885-44b6-b26b-97e308c1784c
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa7e6dc09-d620-4a17-8cee-c165d541b200.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_d4af2427-d74d-4097-9279-578c1011a483
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 100000
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_784.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa83c60c3-e017-4229-9919-cae3a1d9942c.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_d36282b2-d399-4cfd-be0c-5d263301b35c
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419561)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419561)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config06d116ac-8267-48b8-90ae-7401a97f5d30.json
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_4656728e-3333-4c88-8b6f-88076646c6b8
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419562)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419562)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config4b12188a-92f2-401a-b322-96ed2d763424.json
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_97c8bfe1-f5e6-4923-8b90-5d2378918d32
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419564)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419564)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa015debf-9840-45b1-9a66-e95f23cbe156.json
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_dcbaad8d-da54-41b0-b161-375d87b21869
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419577)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419577)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config31306ec3-573a-49c2-b42f-ed90b420bf68.json
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_339ccef2-7005-4a53-900d-6db46f9cac84
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419572)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419572)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf0757146-c31d-4b53-b70f-c20818ef4d9f.json
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_0c331390-af61-4085-ac64-d35c86353083
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419568)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419568)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_config07afb0ba-07dc-41cc-b9c5-a4676129bcde.json
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_4c86110c-f073-47db-9072-bca268d2a099
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419570)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419570)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configf4ff88d0-a40d-422b-b9d1-dc3092df5839.json
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7efb88b3-65cc-4147-a011-1be411354844
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419574)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419574)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configc5a5e220-af29-46ca-8532-0f3b30c54171.json
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_318eea40-3095-4b0d-b52d-644eecfb61f4
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419560)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419560)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa7e6dc09-d620-4a17-8cee-c165d541b200.json
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_67769b05-05fd-48e6-b1d4-de02e80f5859
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419566)[0m Starting run of benchmark ~/Projects/CGRA/RL_streaming_engine/benchmarks/Loops4/loop_bzip2_818.c
+[2m[36m(RolloutWorker pid=1419566)[0m Running Mapper with params file ~/Projects/CGRA/RL_streaming_engine/evaluation_temps_nov7/temp_configa83c60c3-e017-4229-9919-cae3a1d9942c.json
+[2m[36m(RolloutWorker pid=1419561)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_5bc6af08-644e-452b-99b6-43dc151d58d3
+[2m[36m(RolloutWorker pid=1419561)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419561)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419561)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419561)[0m ==============================
+[2m[36m(RolloutWorker pid=1419561)[0m Looking at cgra  7
+[2m[36m(RolloutWorker pid=1419562)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_103af6a4-3b38-4be5-bd05-44036f41cb27
+[2m[36m(RolloutWorker pid=1419562)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419562)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419562)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419562)[0m ==============================
+[2m[36m(RolloutWorker pid=1419562)[0m Looking at cgra  7
+[2m[36m(RolloutWorker pid=1419577)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_76b223d0-eee9-4ecc-8388-920347c02482
+[2m[36m(RolloutWorker pid=1419577)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419577)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419577)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419577)[0m ==============================
+[2m[36m(RolloutWorker pid=1419577)[0m Looking at cgra  7
+[2m[36m(RolloutWorker pid=1419564)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_7be808d1-94d0-41cb-9056-61e4b7ce700b
+[2m[36m(RolloutWorker pid=1419564)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419564)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419564)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419564)[0m ==============================
+[2m[36m(RolloutWorker pid=1419564)[0m Looking at cgra  7
+[2m[36m(RolloutWorker pid=1419572)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_c2a158a3-8a85-46fa-a343-f346544245bc
+[2m[36m(RolloutWorker pid=1419572)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419572)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419572)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419572)[0m ==============================
+[2m[36m(RolloutWorker pid=1419572)[0m Looking at cgra  7
+[2m[36m(RolloutWorker pid=1419568)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_cdbbc40a-feb0-4a44-863d-3700f0441b7c
+[2m[36m(RolloutWorker pid=1419568)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419568)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419568)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419568)[0m ==============================
+[2m[36m(RolloutWorker pid=1419568)[0m Looking at cgra  7
+[2m[36m(RolloutWorker pid=1419570)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_d47f8add-b99a-41ee-8682-61c8c5e14a95
+[2m[36m(RolloutWorker pid=1419570)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419570)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419570)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419570)[0m ==============================
+[2m[36m(RolloutWorker pid=1419570)[0m Looking at cgra  7
+[2m[36m(RolloutWorker pid=1419574)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_581b93c2-0e4b-4de3-a00e-e8178cb7b389
+[2m[36m(RolloutWorker pid=1419574)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419574)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419574)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419574)[0m ==============================
+[2m[36m(RolloutWorker pid=1419574)[0m Looking at cgra  7
+Evaluation done
+Starting iteration  20
+[2m[36m(RolloutWorker pid=1419560)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_061ee30d-da5a-428f-877b-52229f6345ba
+[2m[36m(RolloutWorker pid=1419560)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419560)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419560)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419560)[0m ==============================
+[2m[36m(RolloutWorker pid=1419560)[0m Looking at cgra  7
+[2m[36m(RolloutWorker pid=1419566)[0m Output folder was  evaluation_temps_nov7/temp_output_filtered_00c2ac12-c2a8-4bd7-99d1-ad2047aaf0b2
+[2m[36m(RolloutWorker pid=1419566)[0m IIs found was 18
+[2m[36m(RolloutWorker pid=1419566)[0m Computed IIs  [18, 18, 38, 100000, 18, 18, 100000, 18, 18]
+[2m[36m(RolloutWorker pid=1419566)[0m Total reward was:  -222.0
+[2m[36m(RolloutWorker pid=1419566)[0m ==============================
+[2m[36m(RolloutWorker pid=1419566)[0m Looking at cgra  7
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  -212.5
+iteration done
+Starting iteration  21
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  -212.5
+iteration done
+Starting iteration  22
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  -212.5
+iteration done
+Starting iteration  23
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  nan
+Last 5 mean is  -212.5
+iteration done
+Starting iteration  24
+Episode reward mean is  -212.5
+Episode rewards is  dict_keys(['custom_metrics', 'episode_media', 'info', 'sampler_results', 'episode_reward_max', 'episode_reward_min', 'episode_reward_mean', 'episode_len_mean', 'episodes_this_iter', 'policy_reward_min', 'policy_reward_max', 'policy_reward_mean', 'hist_stats', 'sampler_perf', 'off_policy_estimator', 'num_healthy_workers', 'num_agent_steps_sampled', 'num_agent_steps_trained', 'num_env_steps_sampled', 'num_env_steps_trained', 'num_env_steps_sampled_this_iter', 'num_env_steps_trained_this_iter', 'timesteps_total', 'agent_timesteps_total', 'timers', 'counters', 'done', 'episodes_total', 'training_iteration', 'trial_id', 'experiment_id', 'date', 'timestamp', 'time_this_iter_s', 'time_total_s', 'pid', 'hostname', 'node_ip', 'config', 'time_since_restore', 'timesteps_since_restore', 'iterations_since_restore', 'warmup_time', 'perf'])
+First 5 mean is  -212.5
+Last 5 mean is  -212.5
+iteration done
+Saved model as  output_eval/egraphs_0.005lr_10_nov_10bzip.json_out/trained_model.pk

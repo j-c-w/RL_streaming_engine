@@ -1,0 +1,1 @@
+{"add": 5, "ashr": 1, "br": 5, "icmp": 2, "or": 1, "sext": 5, "shl": 1, "zext": 2, "sub": 1, "fadd": 1, "mul": 1, "sitofp": 1, "and": 1, "xor": 1, "sdiv": 1, "row": 6, "column": 6, "num_ops": 30}
